@@ -1,9 +1,8 @@
-[package]
-name = "xepher-iidx"
-version = "0.1.0"
-edition = "2024"
+[workspace]
+resolver = "2"
+members = ["xepher-backend"]
 
-[dependencies]
+[workspace.dependencies]
 anyhow = "1.0.98"
 reqwest = "0.12.15"
 serde = { version = "1.0.219", features = ["derive"] }
