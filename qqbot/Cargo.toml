@@ -1,0 +1,9 @@
+[package]
+name = "xepher-qqbot"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+reqwest = { workspace = true }
+tokio = { workspace = true }
+warp = "0.3.7"
