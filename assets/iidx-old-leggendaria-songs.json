@@ -1,0 +1,5854 @@
+{
+    "1100": {
+        "title": "RUGGED ASH†",
+        "asciiTitle": "RUGGED ASH",
+        "genre": "FUTURE JAZZ",
+        "artist": "SYMPHONIC DEFOGGERS",
+        "entryTextureFlags": {
+            "title": 1,
+            "artist": 0,
+            "genre": 0,
+            "load": 0,
+            "list": 0
+        },
+        "entryFont": 0,
+        "version": 255,
+        "otherFolder": 0,
+        "bemaniFolder": 0,
+        "splittableDiff": 1,
+        "difficulties": {
+            "sp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 11,
+                "legendaria": 0
+            },
+            "dp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 12,
+                "legendaria": 0
+            }
+        },
+        "entryId": 1100,
+        "volume": 80,
+        "fileIdentifiers": {
+            "sp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            },
+            "dp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            }
+        },
+        "bgaDelay": -60,
+        "bgaFileName": "05di",
+        "afpFlag": 0,
+        "restValidBuffer": {},
+        "oldLeggendaria": true
+    },
+    "4100": {
+        "title": "Clione†",
+        "asciiTitle": "Clione",
+        "genre": "DUTCH TRANCE",
+        "artist": "kors k ",
+        "entryTextureFlags": {
+            "title": 1,
+            "artist": 0,
+            "genre": 0,
+            "load": 0,
+            "list": 0
+        },
+        "entryFont": 0,
+        "version": 255,
+        "otherFolder": 0,
+        "bemaniFolder": 1,
+        "splittableDiff": 1,
+        "difficulties": {
+            "sp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 11,
+                "legendaria": 0
+            },
+            "dp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 11,
+                "legendaria": 0
+            }
+        },
+        "entryId": 4100,
+        "volume": 78,
+        "fileIdentifiers": {
+            "sp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            },
+            "dp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            }
+        },
+        "bgaDelay": -120,
+        "bgaFileName": "04005",
+        "afpFlag": 0,
+        "restValidBuffer": {},
+        "oldLeggendaria": true
+    },
+    "4101": {
+        "title": "ABSOLUTE†",
+        "asciiTitle": "ABSOLUTE",
+        "genre": "EPIC TRANCE",
+        "artist": "dj TAKA",
+        "entryTextureFlags": {
+            "title": 1,
+            "artist": 0,
+            "genre": 0,
+            "load": 0,
+            "list": 0
+        },
+        "entryFont": 0,
+        "version": 255,
+        "otherFolder": 0,
+        "bemaniFolder": 1,
+        "splittableDiff": 1,
+        "difficulties": {
+            "sp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 11,
+                "legendaria": 0
+            },
+            "dp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 11,
+                "legendaria": 0
+            }
+        },
+        "entryId": 4101,
+        "volume": 80,
+        "fileIdentifiers": {
+            "sp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            },
+            "dp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            }
+        },
+        "bgaDelay": -120,
+        "bgaFileName": "04001",
+        "afpFlag": 0,
+        "restValidBuffer": {},
+        "oldLeggendaria": true
+    },
+    "5100": {
+        "title": "RIDE ON THE LIGHT (HI GREAT MIX) †",
+        "asciiTitle": "RIDE ON THE LIGHT (HI GREAT MIX)",
+        "genre": "POWER FUSION ",
+        "artist": "Mr.T ",
+        "entryTextureFlags": {
+            "title": 1,
+            "artist": 0,
+            "genre": 0,
+            "load": 1,
+            "list": 0
+        },
+        "entryFont": 0,
+        "version": 255,
+        "otherFolder": 0,
+        "bemaniFolder": 1,
+        "splittableDiff": 1,
+        "difficulties": {
+            "sp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 10,
+                "legendaria": 0
+            },
+            "dp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 10,
+                "legendaria": 0
+            }
+        },
+        "entryId": 5100,
+        "volume": 80,
+        "fileIdentifiers": {
+            "sp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            },
+            "dp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            }
+        },
+        "bgaDelay": -120,
+        "bgaFileName": "05014",
+        "afpFlag": 0,
+        "restValidBuffer": {},
+        "oldLeggendaria": true
+    },
+    "11100": {
+        "title": "RED ZONE†",
+        "asciiTitle": "RED ZONE",
+        "genre": "SPEED RAVE",
+        "artist": "Tatsh&NAOKI",
+        "entryTextureFlags": {
+            "title": 1,
+            "artist": 0,
+            "genre": 0,
+            "load": 0,
+            "list": 0
+        },
+        "entryFont": 0,
+        "version": 255,
+        "otherFolder": 0,
+        "bemaniFolder": 1,
+        "splittableDiff": 1,
+        "difficulties": {
+            "sp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 12,
+                "legendaria": 0
+            },
+            "dp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 12,
+                "legendaria": 0
+            }
+        },
+        "entryId": 11100,
+        "volume": 105,
+        "fileIdentifiers": {
+            "sp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            },
+            "dp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            }
+        },
+        "bgaDelay": -60,
+        "bgaFileName": "05eu",
+        "afpFlag": 0,
+        "restValidBuffer": {},
+        "oldLeggendaria": true
+    },
+    "11101": {
+        "title": "spiral galaxy†",
+        "asciiTitle": "spiral galaxy",
+        "genre": "PSYCHEDELIC TECHNO",
+        "artist": "D.J.SETUP",
+        "entryTextureFlags": {
+            "title": 1,
+            "artist": 0,
+            "genre": 0,
+            "load": 0,
+            "list": 0
+        },
+        "entryFont": 0,
+        "version": 255,
+        "otherFolder": 0,
+        "bemaniFolder": 0,
+        "splittableDiff": 1,
+        "difficulties": {
+            "sp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 12,
+                "legendaria": 0
+            },
+            "dp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 12,
+                "legendaria": 0
+            }
+        },
+        "entryId": 11101,
+        "volume": 100,
+        "fileIdentifiers": {
+            "sp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            },
+            "dp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            }
+        },
+        "bgaDelay": 0,
+        "bgaFileName": "11012",
+        "afpFlag": 0,
+        "restValidBuffer": {},
+        "oldLeggendaria": true
+    },
+    "12100": {
+        "title": "Little Little Princess†",
+        "asciiTitle": "Little Little Princess",
+        "genre": "PUNK OPERA",
+        "artist": "SHRINE 418",
+        "entryTextureFlags": {
+            "title": 1,
+            "artist": 0,
+            "genre": 0,
+            "load": 0,
+            "list": 0
+        },
+        "entryFont": 0,
+        "version": 255,
+        "otherFolder": 0,
+        "bemaniFolder": 0,
+        "splittableDiff": 0,
+        "difficulties": {
+            "sp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 12,
+                "legendaria": 0
+            },
+            "dp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 12,
+                "legendaria": 0
+            }
+        },
+        "entryId": 12100,
+        "volume": 85,
+        "fileIdentifiers": {
+            "sp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            },
+            "dp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            }
+        },
+        "bgaDelay": 0,
+        "bgaFileName": "12002",
+        "afpFlag": 0,
+        "restValidBuffer": {},
+        "oldLeggendaria": true
+    },
+    "12101": {
+        "title": "Twelfth Style†",
+        "asciiTitle": "Twelfth Style",
+        "genre": "HAPPY EURO PARADISE",
+        "artist": "Tatsh&DAYBREAKERS NEXT",
+        "entryTextureFlags": {
+            "title": 1,
+            "artist": 0,
+            "genre": 0,
+            "load": 0,
+            "list": 0
+        },
+        "entryFont": 0,
+        "version": 255,
+        "otherFolder": 0,
+        "bemaniFolder": 0,
+        "splittableDiff": 1,
+        "difficulties": {
+            "sp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 12,
+                "legendaria": 0
+            },
+            "dp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 12,
+                "legendaria": 0
+            }
+        },
+        "entryId": 12101,
+        "volume": 94,
+        "fileIdentifiers": {
+            "sp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            },
+            "dp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            }
+        },
+        "bgaDelay": 0,
+        "bgaFileName": "12016",
+        "afpFlag": 0,
+        "restValidBuffer": {},
+        "oldLeggendaria": true
+    },
+    "13100": {
+        "title": "CONTRACT†",
+        "asciiTitle": "CONTRACT",
+        "genre": "SUBLIME TECHNO",
+        "artist": "朱雀",
+        "entryTextureFlags": {
+            "title": 1,
+            "artist": 0,
+            "genre": 0,
+            "load": 0,
+            "list": 0
+        },
+        "entryFont": 0,
+        "version": 255,
+        "otherFolder": 0,
+        "bemaniFolder": 0,
+        "splittableDiff": 1,
+        "difficulties": {
+            "sp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 12,
+                "legendaria": 0
+            },
+            "dp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 12,
+                "legendaria": 0
+            }
+        },
+        "entryId": 13100,
+        "volume": 75,
+        "fileIdentifiers": {
+            "sp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            },
+            "dp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            }
+        },
+        "bgaDelay": 0,
+        "bgaFileName": "cardinal",
+        "afpFlag": 2,
+        "restValidBuffer": {
+            "512": 48,
+            "513": 48,
+            "544": 48,
+            "545": 49,
+            "576": 48,
+            "577": 50,
+            "608": 48,
+            "609": 51,
+            "800": 49,
+            "801": 51,
+            "802": 48,
+            "803": 49,
+            "804": 48
+        },
+        "oldLeggendaria": true
+    },
+    "13101": {
+        "title": "waxing and wanding†",
+        "asciiTitle": "waxing and wanding",
+        "genre": "DANCE SPEED",
+        "artist": "青龍",
+        "entryTextureFlags": {
+            "title": 1,
+            "artist": 0,
+            "genre": 0,
+            "load": 0,
+            "list": 0
+        },
+        "entryFont": 0,
+        "version": 255,
+        "otherFolder": 0,
+        "bemaniFolder": 1,
+        "splittableDiff": 1,
+        "difficulties": {
+            "sp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 12,
+                "legendaria": 0
+            },
+            "dp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 12,
+                "legendaria": 0
+            }
+        },
+        "entryId": 13101,
+        "volume": 55,
+        "fileIdentifiers": {
+            "sp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            },
+            "dp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            }
+        },
+        "bgaDelay": 0,
+        "bgaFileName": "cardinal",
+        "afpFlag": 2,
+        "restValidBuffer": {
+            "512": 48,
+            "513": 48,
+            "544": 48,
+            "545": 49,
+            "576": 48,
+            "577": 50,
+            "608": 48,
+            "609": 51,
+            "640": 48,
+            "641": 52,
+            "800": 49,
+            "801": 51,
+            "802": 48,
+            "803": 51,
+            "804": 56
+        },
+        "oldLeggendaria": true
+    },
+    "14100": {
+        "title": "VANESSA†",
+        "asciiTitle": "VANESSA",
+        "genre": "DECEPTIVE GABBA",
+        "artist": "朱雀",
+        "entryTextureFlags": {
+            "title": 1,
+            "artist": 0,
+            "genre": 0,
+            "load": 1,
+            "list": 0
+        },
+        "entryFont": 0,
+        "version": 255,
+        "otherFolder": 0,
+        "bemaniFolder": 1,
+        "splittableDiff": 1,
+        "difficulties": {
+            "sp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 12,
+                "legendaria": 0
+            },
+            "dp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 12,
+                "legendaria": 0
+            }
+        },
+        "entryId": 14100,
+        "volume": 85,
+        "fileIdentifiers": {
+            "sp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            },
+            "dp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            }
+        },
+        "bgaDelay": -60,
+        "bgaFileName": "14009",
+        "afpFlag": 2,
+        "restValidBuffer": {
+            "512": 48,
+            "513": 48,
+            "544": 48,
+            "545": 49,
+            "576": 48,
+            "577": 50,
+            "608": 48,
+            "609": 51,
+            "800": 49,
+            "801": 52,
+            "802": 48,
+            "803": 48,
+            "804": 57
+        },
+        "oldLeggendaria": true
+    },
+    "14101": {
+        "title": "KAMAITACHI†",
+        "asciiTitle": "KAMAITACHI",
+        "genre": "FREEFORM HARDCORE",
+        "artist": "DJ TECHNORCH fw. GUHROOVY",
+        "entryTextureFlags": {
+            "title": 1,
+            "artist": 0,
+            "genre": 0,
+            "load": 0,
+            "list": 0
+        },
+        "entryFont": 0,
+        "version": 255,
+        "otherFolder": 0,
+        "bemaniFolder": 0,
+        "splittableDiff": 1,
+        "difficulties": {
+            "sp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 12,
+                "legendaria": 0
+            },
+            "dp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 12,
+                "legendaria": 0
+            }
+        },
+        "entryId": 14101,
+        "volume": 111,
+        "fileIdentifiers": {
+            "sp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            },
+            "dp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            }
+        },
+        "bgaDelay": 0,
+        "bgaFileName": "14046",
+        "afpFlag": 0,
+        "restValidBuffer": {},
+        "oldLeggendaria": true
+    },
+    "14102": {
+        "title": "GRID KNIGHT†",
+        "asciiTitle": "GRID KNIGHT",
+        "genre": "ELECTRONICA",
+        "artist": "SAW WAVE SQUAD",
+        "entryTextureFlags": {
+            "title": 1,
+            "artist": 0,
+            "genre": 0,
+            "load": 0,
+            "list": 0
+        },
+        "entryFont": 0,
+        "version": 255,
+        "otherFolder": 0,
+        "bemaniFolder": 0,
+        "splittableDiff": 1,
+        "difficulties": {
+            "sp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 12,
+                "legendaria": 0
+            },
+            "dp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 12,
+                "legendaria": 0
+            }
+        },
+        "entryId": 14102,
+        "volume": 90,
+        "fileIdentifiers": {
+            "sp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            },
+            "dp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            }
+        },
+        "bgaDelay": -90,
+        "bgaFileName": "14022",
+        "afpFlag": 0,
+        "restValidBuffer": {},
+        "oldLeggendaria": true
+    },
+    "15101": {
+        "title": "ICARUS†",
+        "asciiTitle": "ICARUS",
+        "genre": "NU-SKOOL BREAKBEATS HARDCORE",
+        "artist": "Eagle",
+        "entryTextureFlags": {
+            "title": 1,
+            "artist": 0,
+            "genre": 0,
+            "load": 0,
+            "list": 0
+        },
+        "entryFont": 0,
+        "version": 255,
+        "otherFolder": 0,
+        "bemaniFolder": 0,
+        "splittableDiff": 1,
+        "difficulties": {
+            "sp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 12,
+                "legendaria": 0
+            },
+            "dp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 12,
+                "legendaria": 0
+            }
+        },
+        "entryId": 15101,
+        "volume": 117,
+        "fileIdentifiers": {
+            "sp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            },
+            "dp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            }
+        },
+        "bgaDelay": 0,
+        "bgaFileName": "military",
+        "afpFlag": 0,
+        "restValidBuffer": {},
+        "oldLeggendaria": true
+    },
+    "15102": {
+        "title": "THE DEEP STRIKER†",
+        "asciiTitle": "THE DEEP STRIKER",
+        "genre": "NU STYLE GABBA",
+        "artist": "L.E.D.-G",
+        "entryTextureFlags": {
+            "title": 1,
+            "artist": 0,
+            "genre": 0,
+            "load": 0,
+            "list": 0
+        },
+        "entryFont": 0,
+        "version": 255,
+        "otherFolder": 0,
+        "bemaniFolder": 0,
+        "splittableDiff": 1,
+        "difficulties": {
+            "sp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 12,
+                "legendaria": 0
+            },
+            "dp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 12,
+                "legendaria": 0
+            }
+        },
+        "entryId": 15102,
+        "volume": 75,
+        "fileIdentifiers": {
+            "sp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            },
+            "dp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            }
+        },
+        "bgaDelay": 0,
+        "bgaFileName": "14te",
+        "afpFlag": 2,
+        "restValidBuffer": {
+            "512": 100,
+            "513": 101,
+            "514": 101,
+            "515": 112,
+            "516": 95,
+            "517": 109,
+            "518": 105,
+            "519": 115,
+            "520": 115,
+            "544": 100,
+            "545": 101,
+            "546": 101,
+            "547": 112,
+            "548": 95,
+            "549": 48,
+            "550": 49,
+            "576": 100,
+            "577": 101,
+            "578": 101,
+            "579": 112,
+            "580": 95,
+            "581": 48,
+            "582": 50,
+            "608": 100,
+            "609": 101,
+            "610": 101,
+            "611": 112,
+            "612": 95,
+            "613": 48,
+            "614": 51,
+            "640": 100,
+            "641": 101,
+            "642": 101,
+            "643": 112,
+            "644": 95,
+            "645": 48,
+            "646": 52,
+            "800": 49,
+            "801": 53,
+            "802": 48,
+            "803": 48,
+            "804": 55
+        },
+        "oldLeggendaria": true
+    },
+    "15103": {
+        "title": "Übertreffen†",
+        "asciiTitle": "ubertreffen",
+        "genre": "PROGRESSIVE BAROQUE",
+        "artist": "TAKA respect for J.S.B.",
+        "entryTextureFlags": {
+            "title": 1,
+            "artist": 0,
+            "genre": 0,
+            "load": 0,
+            "list": 1
+        },
+        "entryFont": 0,
+        "version": 255,
+        "otherFolder": 0,
+        "bemaniFolder": 1,
+        "splittableDiff": 1,
+        "difficulties": {
+            "sp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 12,
+                "legendaria": 0
+            },
+            "dp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 12,
+                "legendaria": 0
+            }
+        },
+        "entryId": 15103,
+        "volume": 100,
+        "fileIdentifiers": {
+            "sp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            },
+            "dp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            }
+        },
+        "bgaDelay": 0,
+        "bgaFileName": "21he",
+        "afpFlag": 2,
+        "restValidBuffer": {
+            "512": 48,
+            "513": 48,
+            "544": 48,
+            "545": 49,
+            "576": 48,
+            "577": 50,
+            "608": 48,
+            "609": 51,
+            "640": 48,
+            "641": 52,
+            "672": 48,
+            "673": 53,
+            "800": 49,
+            "801": 53,
+            "802": 48,
+            "803": 54,
+            "804": 49
+        },
+        "oldLeggendaria": true
+    },
+    "15104": {
+        "title": "Blue Rain†",
+        "asciiTitle": "Blue Rain",
+        "genre": "TRANCE",
+        "artist": "dj TAKA VS Ryu☆",
+        "entryTextureFlags": {
+            "title": 1,
+            "artist": 0,
+            "genre": 0,
+            "load": 0,
+            "list": 0
+        },
+        "entryFont": 0,
+        "version": 255,
+        "otherFolder": 0,
+        "bemaniFolder": 1,
+        "splittableDiff": 1,
+        "difficulties": {
+            "sp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 12,
+                "legendaria": 0
+            },
+            "dp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 12,
+                "legendaria": 0
+            }
+        },
+        "entryId": 15104,
+        "volume": 60,
+        "fileIdentifiers": {
+            "sp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            },
+            "dp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            }
+        },
+        "bgaDelay": 0,
+        "bgaFileName": "14tr",
+        "afpFlag": 2,
+        "restValidBuffer": {
+            "544": 48,
+            "545": 49,
+            "576": 48,
+            "577": 50,
+            "800": 49,
+            "801": 53,
+            "802": 48,
+            "803": 48,
+            "804": 52
+        },
+        "oldLeggendaria": true
+    },
+    "15105": {
+        "title": "Wanna Party?†",
+        "asciiTitle": "Wanna Party?",
+        "genre": "PIANO HOUSE",
+        "artist": "RAM",
+        "entryTextureFlags": {
+            "title": 1,
+            "artist": 0,
+            "genre": 0,
+            "load": 0,
+            "list": 0
+        },
+        "entryFont": 0,
+        "version": 255,
+        "otherFolder": 0,
+        "bemaniFolder": 0,
+        "splittableDiff": 1,
+        "difficulties": {
+            "sp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 11,
+                "legendaria": 0
+            },
+            "dp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 12,
+                "legendaria": 0
+            }
+        },
+        "entryId": 15105,
+        "volume": 105,
+        "fileIdentifiers": {
+            "sp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            },
+            "dp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            }
+        },
+        "bgaDelay": 0,
+        "bgaFileName": "15045",
+        "afpFlag": 0,
+        "restValidBuffer": {},
+        "oldLeggendaria": true
+    },
+    "16101": {
+        "title": "凛として咲く花の如く†",
+        "asciiTitle": "RINTOSHITESAKUHANANOGOTOKU",
+        "genre": "撫子ロック",
+        "artist": "紅色リトマス",
+        "entryTextureFlags": {
+            "title": 0,
+            "artist": 0,
+            "genre": 0,
+            "load": 0,
+            "list": 0
+        },
+        "entryFont": 3,
+        "version": 255,
+        "otherFolder": 1,
+        "bemaniFolder": 1,
+        "splittableDiff": 1,
+        "difficulties": {
+            "sp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 11,
+                "legendaria": 0
+            },
+            "dp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 12,
+                "legendaria": 0
+            }
+        },
+        "entryId": 16101,
+        "volume": 117,
+        "fileIdentifiers": {
+            "sp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            },
+            "dp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            }
+        },
+        "bgaDelay": 0,
+        "bgaFileName": "16050",
+        "afpFlag": 0,
+        "restValidBuffer": {},
+        "oldLeggendaria": true
+    },
+    "16102": {
+        "title": "THANK YOU FOR PLAYING†",
+        "asciiTitle": "THANK YOU FOR PLAYING",
+        "genre": "ONLY ONE EPILOGUE",
+        "artist": "SUPER STAR 満-MITSURU-",
+        "entryTextureFlags": {
+            "title": 1,
+            "artist": 0,
+            "genre": 0,
+            "load": 0,
+            "list": 0
+        },
+        "entryFont": 0,
+        "version": 255,
+        "otherFolder": 0,
+        "bemaniFolder": 0,
+        "splittableDiff": 1,
+        "difficulties": {
+            "sp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 12,
+                "legendaria": 0
+            },
+            "dp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 11,
+                "legendaria": 0
+            }
+        },
+        "entryId": 16102,
+        "volume": 70,
+        "fileIdentifiers": {
+            "sp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            },
+            "dp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            }
+        },
+        "bgaDelay": 0,
+        "bgaFileName": "16045",
+        "afpFlag": 0,
+        "restValidBuffer": {},
+        "oldLeggendaria": true
+    },
+    "16103": {
+        "title": "naughty girl@Queen's Palace†",
+        "asciiTitle": "NAUGHTY GIRL QUEEN'S PALACE",
+        "genre": "TECH-BREAKBEATS",
+        "artist": "DJ Mass MAD Izm*",
+        "entryTextureFlags": {
+            "title": 1,
+            "artist": 0,
+            "genre": 0,
+            "load": 0,
+            "list": 0
+        },
+        "entryFont": 0,
+        "version": 255,
+        "otherFolder": 0,
+        "bemaniFolder": 0,
+        "splittableDiff": 1,
+        "difficulties": {
+            "sp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 11,
+                "legendaria": 0
+            },
+            "dp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 11,
+                "legendaria": 0
+            }
+        },
+        "entryId": 16103,
+        "volume": 117,
+        "fileIdentifiers": {
+            "sp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            },
+            "dp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            }
+        },
+        "bgaDelay": -60,
+        "bgaFileName": "07te",
+        "afpFlag": 2,
+        "restValidBuffer": {
+            "512": 48,
+            "513": 48,
+            "544": 48,
+            "545": 49,
+            "576": 48,
+            "577": 50,
+            "608": 48,
+            "609": 51,
+            "800": 49,
+            "801": 54,
+            "802": 48,
+            "803": 51,
+            "804": 49
+        },
+        "oldLeggendaria": true
+    },
+    "16104": {
+        "title": "Kung-fu Empire†",
+        "asciiTitle": "Kung-fu Empire",
+        "genre": "ASIAN JANGLE",
+        "artist": "飛燕流舞",
+        "entryTextureFlags": {
+            "title": 1,
+            "artist": 0,
+            "genre": 0,
+            "load": 0,
+            "list": 0
+        },
+        "entryFont": 0,
+        "version": 255,
+        "otherFolder": 0,
+        "bemaniFolder": 0,
+        "splittableDiff": 1,
+        "difficulties": {
+            "sp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 12,
+                "legendaria": 0
+            },
+            "dp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 12,
+                "legendaria": 0
+            }
+        },
+        "entryId": 16104,
+        "volume": 72,
+        "fileIdentifiers": {
+            "sp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            },
+            "dp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            }
+        },
+        "bgaDelay": 163,
+        "bgaFileName": "16015",
+        "afpFlag": 0,
+        "restValidBuffer": {},
+        "oldLeggendaria": true
+    },
+    "16105": {
+        "title": "B4U(BEMANI FOR YOU MIX)†",
+        "asciiTitle": "B4U(BEMANI FOR YOU MIX)",
+        "genre": "RECKLESS RAVE",
+        "artist": "Remixed by DJ YOSHITAKA with Michael a la mode",
+        "entryTextureFlags": {
+            "title": 1,
+            "artist": 0,
+            "genre": 0,
+            "load": 0,
+            "list": 0
+        },
+        "entryFont": 0,
+        "version": 255,
+        "otherFolder": 0,
+        "bemaniFolder": 1,
+        "splittableDiff": 1,
+        "difficulties": {
+            "sp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 12,
+                "legendaria": 0
+            },
+            "dp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 12,
+                "legendaria": 0
+            }
+        },
+        "entryId": 16105,
+        "volume": 117,
+        "fileIdentifiers": {
+            "sp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            },
+            "dp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            }
+        },
+        "bgaDelay": 0,
+        "bgaFileName": "16002",
+        "afpFlag": 0,
+        "restValidBuffer": {},
+        "oldLeggendaria": true
+    },
+    "17101": {
+        "title": "SOLID STATE SQUAD†",
+        "asciiTitle": "SOLID STATE SQUAD",
+        "genre": "HARDSTYLE",
+        "artist": "kors k Vs. L.E.D.",
+        "entryTextureFlags": {
+            "title": 1,
+            "artist": 0,
+            "genre": 0,
+            "load": 0,
+            "list": 0
+        },
+        "entryFont": 0,
+        "version": 255,
+        "otherFolder": 0,
+        "bemaniFolder": 0,
+        "splittableDiff": 1,
+        "difficulties": {
+            "sp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 12,
+                "legendaria": 0
+            },
+            "dp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 12,
+                "legendaria": 0
+            }
+        },
+        "entryId": 17101,
+        "volume": 100,
+        "fileIdentifiers": {
+            "sp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            },
+            "dp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            }
+        },
+        "bgaDelay": 93,
+        "bgaFileName": "17060",
+        "afpFlag": 0,
+        "restValidBuffer": {},
+        "oldLeggendaria": true
+    },
+    "17102": {
+        "title": "AIR RAID FROM THA UNDAGROUND†",
+        "asciiTitle": "AIR RAID FROM THA UNDAGROUND",
+        "genre": "SPEEDCORE",
+        "artist": "GUHROOVY",
+        "entryTextureFlags": {
+            "title": 1,
+            "artist": 0,
+            "genre": 0,
+            "load": 0,
+            "list": 0
+        },
+        "entryFont": 0,
+        "version": 255,
+        "otherFolder": 0,
+        "bemaniFolder": 1,
+        "splittableDiff": 1,
+        "difficulties": {
+            "sp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 12,
+                "legendaria": 0
+            },
+            "dp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 12,
+                "legendaria": 0
+            }
+        },
+        "entryId": 17102,
+        "volume": 109,
+        "fileIdentifiers": {
+            "sp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            },
+            "dp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            }
+        },
+        "bgaDelay": 0,
+        "bgaFileName": "17028",
+        "afpFlag": 0,
+        "restValidBuffer": {},
+        "oldLeggendaria": true
+    },
+    "18100": {
+        "title": "Golden Palms†",
+        "asciiTitle": "Golden Palms",
+        "genre": "NU DISCO",
+        "artist": "Dirty Androids",
+        "entryTextureFlags": {
+            "title": 1,
+            "artist": 0,
+            "genre": 0,
+            "load": 0,
+            "list": 0
+        },
+        "entryFont": 0,
+        "version": 255,
+        "otherFolder": 0,
+        "bemaniFolder": 0,
+        "splittableDiff": 1,
+        "difficulties": {
+            "sp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 11,
+                "legendaria": 0
+            },
+            "dp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 11,
+                "legendaria": 0
+            }
+        },
+        "entryId": 18100,
+        "volume": 80,
+        "fileIdentifiers": {
+            "sp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            },
+            "dp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            }
+        },
+        "bgaDelay": -28,
+        "bgaFileName": "18025",
+        "afpFlag": 0,
+        "restValidBuffer": {},
+        "oldLeggendaria": true
+    },
+    "18103": {
+        "title": "おおきなこえで†",
+        "asciiTitle": "OOKINA KOEDE",
+        "genre": "WORLD/POPS",
+        "artist": "猫叉Master feat.Sana",
+        "entryTextureFlags": {
+            "title": 0,
+            "artist": 0,
+            "genre": 0,
+            "load": 0,
+            "list": 0
+        },
+        "entryFont": 4,
+        "version": 255,
+        "otherFolder": 1,
+        "bemaniFolder": 0,
+        "splittableDiff": 1,
+        "difficulties": {
+            "sp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 10,
+                "legendaria": 0
+            },
+            "dp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 10,
+                "legendaria": 0
+            }
+        },
+        "entryId": 18103,
+        "volume": 124,
+        "fileIdentifiers": {
+            "sp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            },
+            "dp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            }
+        },
+        "bgaDelay": -60,
+        "bgaFileName": "06ho",
+        "afpFlag": 2,
+        "restValidBuffer": {
+            "544": 48,
+            "545": 49,
+            "576": 48,
+            "577": 50,
+            "608": 48,
+            "609": 51,
+            "640": 48,
+            "641": 52
+        },
+        "oldLeggendaria": true
+    },
+    "19100": {
+        "title": "QUANTUM TELEPORTATION†",
+        "asciiTitle": "QUANTUM TELEPORTATION",
+        "genre": "TECHNO",
+        "artist": "L.E.D.",
+        "entryTextureFlags": {
+            "title": 1,
+            "artist": 0,
+            "genre": 0,
+            "load": 0,
+            "list": 0
+        },
+        "entryFont": 0,
+        "version": 255,
+        "otherFolder": 0,
+        "bemaniFolder": 0,
+        "splittableDiff": 1,
+        "difficulties": {
+            "sp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 12,
+                "legendaria": 0
+            },
+            "dp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 12,
+                "legendaria": 0
+            }
+        },
+        "entryId": 19100,
+        "volume": 80,
+        "fileIdentifiers": {
+            "sp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            },
+            "dp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            }
+        },
+        "bgaDelay": 92,
+        "bgaFileName": "19063",
+        "afpFlag": 0,
+        "restValidBuffer": {},
+        "oldLeggendaria": true
+    },
+    "20103": {
+        "title": "朧†",
+        "asciiTitle": "OBORO",
+        "genre": "FASCINATION",
+        "artist": "HHH×MM×ST",
+        "entryTextureFlags": {
+            "title": 0,
+            "artist": 0,
+            "genre": 0,
+            "load": 0,
+            "list": 0
+        },
+        "entryFont": 3,
+        "version": 255,
+        "otherFolder": 1,
+        "bemaniFolder": 1,
+        "splittableDiff": 1,
+        "difficulties": {
+            "sp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 11,
+                "legendaria": 0
+            },
+            "dp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 11,
+                "legendaria": 0
+            }
+        },
+        "entryId": 20103,
+        "volume": 60,
+        "fileIdentifiers": {
+            "sp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            },
+            "dp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            }
+        },
+        "bgaDelay": 80,
+        "bgaFileName": "20100",
+        "afpFlag": 0,
+        "restValidBuffer": {},
+        "oldLeggendaria": true
+    },
+    "20104": {
+        "title": "仮想空間の旅人たち†",
+        "asciiTitle": "The travelers of virtual space",
+        "genre": "TECHNO",
+        "artist": "DJ MURASAME",
+        "entryTextureFlags": {
+            "title": 1,
+            "artist": 0,
+            "genre": 0,
+            "load": 0,
+            "list": 0
+        },
+        "entryFont": 1,
+        "version": 255,
+        "otherFolder": 1,
+        "bemaniFolder": 0,
+        "splittableDiff": 1,
+        "difficulties": {
+            "sp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 12,
+                "legendaria": 0
+            },
+            "dp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 12,
+                "legendaria": 0
+            }
+        },
+        "entryId": 20104,
+        "volume": 95,
+        "fileIdentifiers": {
+            "sp": {
+                "beginner": "0",
+                "normal": "d",
+                "hyper": "d",
+                "another": "d",
+                "legendaria": "0"
+            },
+            "dp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            }
+        },
+        "bgaDelay": 0,
+        "bgaFileName": "20te",
+        "afpFlag": 2,
+        "restValidBuffer": {
+            "544": 48,
+            "545": 49,
+            "576": 48,
+            "577": 50,
+            "608": 48,
+            "609": 51,
+            "640": 48,
+            "641": 52,
+            "672": 48,
+            "673": 53,
+            "704": 48,
+            "705": 54,
+            "736": 48,
+            "737": 55,
+            "768": 48,
+            "769": 56,
+            "800": 50,
+            "801": 48,
+            "802": 48,
+            "803": 51,
+            "804": 57
+        },
+        "oldLeggendaria": true
+    },
+    "20105": {
+        "title": "LUV CAN SAVE U†",
+        "asciiTitle": "LUV CAN SAVE U",
+        "genre": "NEO 80's EURO ELECTRO",
+        "artist": "HIDEKI NAGANUMA",
+        "entryTextureFlags": {
+            "title": 1,
+            "artist": 0,
+            "genre": 0,
+            "load": 0,
+            "list": 0
+        },
+        "entryFont": 0,
+        "version": 255,
+        "otherFolder": 0,
+        "bemaniFolder": 0,
+        "splittableDiff": 1,
+        "difficulties": {
+            "sp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 10,
+                "legendaria": 0
+            },
+            "dp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 11,
+                "legendaria": 0
+            }
+        },
+        "entryId": 20105,
+        "volume": 85,
+        "fileIdentifiers": {
+            "sp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            },
+            "dp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            }
+        },
+        "bgaDelay": 0,
+        "bgaFileName": "18eu",
+        "afpFlag": 2,
+        "restValidBuffer": {
+            "512": 48,
+            "513": 48,
+            "544": 115,
+            "545": 101,
+            "546": 113,
+            "576": 48,
+            "577": 49,
+            "608": 48,
+            "609": 50,
+            "640": 48,
+            "641": 51,
+            "672": 48,
+            "673": 52,
+            "800": 50,
+            "801": 48,
+            "802": 48,
+            "803": 54,
+            "804": 56
+        },
+        "oldLeggendaria": true
+    },
+    "20106": {
+        "title": "Howling†",
+        "asciiTitle": "Howling",
+        "genre": "NU RAVE",
+        "artist": "PON",
+        "entryTextureFlags": {
+            "title": 1,
+            "artist": 0,
+            "genre": 0,
+            "load": 0,
+            "list": 0
+        },
+        "entryFont": 0,
+        "version": 255,
+        "otherFolder": 0,
+        "bemaniFolder": 1,
+        "splittableDiff": 1,
+        "difficulties": {
+            "sp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 10,
+                "legendaria": 0
+            },
+            "dp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 11,
+                "legendaria": 0
+            }
+        },
+        "entryId": 20106,
+        "volume": 100,
+        "fileIdentifiers": {
+            "sp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            },
+            "dp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            }
+        },
+        "bgaDelay": 0,
+        "bgaFileName": "17ho",
+        "afpFlag": 2,
+        "restValidBuffer": {
+            "544": 115,
+            "545": 101,
+            "546": 113,
+            "576": 48,
+            "577": 49,
+            "608": 48,
+            "609": 50,
+            "640": 48,
+            "641": 51,
+            "672": 48,
+            "673": 52,
+            "704": 48,
+            "705": 53,
+            "800": 50,
+            "801": 48,
+            "802": 48,
+            "803": 50,
+            "804": 52
+        },
+        "oldLeggendaria": true
+    },
+    "20107": {
+        "title": "龍と少女とデコヒーレンス†",
+        "asciiTitle": "Decoherence",
+        "genre": "EPIC TECHNO",
+        "artist": "黒猫ダンジョン",
+        "entryTextureFlags": {
+            "title": 0,
+            "artist": 0,
+            "genre": 0,
+            "load": 0,
+            "list": 0
+        },
+        "entryFont": 3,
+        "version": 255,
+        "otherFolder": 1,
+        "bemaniFolder": 1,
+        "splittableDiff": 1,
+        "difficulties": {
+            "sp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 12,
+                "legendaria": 0
+            },
+            "dp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 12,
+                "legendaria": 0
+            }
+        },
+        "entryId": 20107,
+        "volume": 85,
+        "fileIdentifiers": {
+            "sp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            },
+            "dp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            }
+        },
+        "bgaDelay": 7,
+        "bgaFileName": "20019",
+        "afpFlag": 0,
+        "restValidBuffer": {},
+        "oldLeggendaria": true
+    },
+    "21100": {
+        "title": "Close the World feat.a☆ru†LEGGENDARIA",
+        "asciiTitle": "CLOSE THE WORLD FEAT.A RU LEGGENDARIA",
+        "genre": "J-CORE",
+        "artist": "天叢雲剣",
+        "entryTextureFlags": {
+            "title": 1,
+            "artist": 0,
+            "genre": 0,
+            "load": 0,
+            "list": 1
+        },
+        "entryFont": 0,
+        "version": 255,
+        "otherFolder": 0,
+        "bemaniFolder": 0,
+        "splittableDiff": 1,
+        "difficulties": {
+            "sp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 12,
+                "legendaria": 0
+            },
+            "dp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 12,
+                "legendaria": 0
+            }
+        },
+        "entryId": 21100,
+        "volume": 115,
+        "fileIdentifiers": {
+            "sp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            },
+            "dp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            }
+        },
+        "bgaDelay": 0,
+        "bgaFileName": "21he",
+        "afpFlag": 0,
+        "restValidBuffer": {},
+        "oldLeggendaria": true
+    },
+    "21101": {
+        "title": "Sigmund†LEGGENDARIA",
+        "asciiTitle": "Sigmund LEGGENDARIA",
+        "genre": "REQUIEM PSY",
+        "artist": "Gram",
+        "entryTextureFlags": {
+            "title": 1,
+            "artist": 0,
+            "genre": 0,
+            "load": 0,
+            "list": 1
+        },
+        "entryFont": 0,
+        "version": 255,
+        "otherFolder": 0,
+        "bemaniFolder": 0,
+        "splittableDiff": 1,
+        "difficulties": {
+            "sp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 12,
+                "legendaria": 0
+            },
+            "dp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 12,
+                "legendaria": 0
+            }
+        },
+        "entryId": 21101,
+        "volume": 98,
+        "fileIdentifiers": {
+            "sp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            },
+            "dp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            }
+        },
+        "bgaDelay": 0,
+        "bgaFileName": "07tr",
+        "afpFlag": 0,
+        "restValidBuffer": {},
+        "oldLeggendaria": true
+    },
+    "21102": {
+        "title": "Ancient Scapes†LEGGENDARIA",
+        "asciiTitle": "Ancient Scapes LEGGENDARIA",
+        "genre": "DYNASTIC FREEFORM",
+        "artist": "Durandal",
+        "entryTextureFlags": {
+            "title": 1,
+            "artist": 0,
+            "genre": 0,
+            "load": 0,
+            "list": 1
+        },
+        "entryFont": 0,
+        "version": 255,
+        "otherFolder": 0,
+        "bemaniFolder": 0,
+        "splittableDiff": 1,
+        "difficulties": {
+            "sp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 12,
+                "legendaria": 0
+            },
+            "dp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 12,
+                "legendaria": 0
+            }
+        },
+        "entryId": 21102,
+        "volume": 90,
+        "fileIdentifiers": {
+            "sp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            },
+            "dp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            }
+        },
+        "bgaDelay": 0,
+        "bgaFileName": "20te",
+        "afpFlag": 0,
+        "restValidBuffer": {},
+        "oldLeggendaria": true
+    },
+    "21103": {
+        "title": "invoker†LEGGENDARIA",
+        "asciiTitle": "invoker LEGGENDARIA",
+        "genre": "TRIBE CORE",
+        "artist": "Caladborg",
+        "entryTextureFlags": {
+            "title": 1,
+            "artist": 0,
+            "genre": 0,
+            "load": 0,
+            "list": 1
+        },
+        "entryFont": 0,
+        "version": 255,
+        "otherFolder": 0,
+        "bemaniFolder": 0,
+        "splittableDiff": 1,
+        "difficulties": {
+            "sp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 12,
+                "legendaria": 0
+            },
+            "dp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 12,
+                "legendaria": 0
+            }
+        },
+        "entryId": 21103,
+        "volume": 127,
+        "fileIdentifiers": {
+            "sp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            },
+            "dp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            }
+        },
+        "bgaDelay": 0,
+        "bgaFileName": "19cy",
+        "afpFlag": 0,
+        "restValidBuffer": {},
+        "oldLeggendaria": true
+    },
+    "21104": {
+        "title": "Feel The Beat†LEGGENDARIA ",
+        "asciiTitle": "Feel The Beat LEGGENDARIA ",
+        "genre": "HARDCORE RAVE",
+        "artist": "Falsion",
+        "entryTextureFlags": {
+            "title": 1,
+            "artist": 0,
+            "genre": 0,
+            "load": 0,
+            "list": 1
+        },
+        "entryFont": 0,
+        "version": 255,
+        "otherFolder": 0,
+        "bemaniFolder": 0,
+        "splittableDiff": 1,
+        "difficulties": {
+            "sp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 12,
+                "legendaria": 0
+            },
+            "dp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 12,
+                "legendaria": 0
+            }
+        },
+        "entryId": 21104,
+        "volume": 60,
+        "fileIdentifiers": {
+            "sp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            },
+            "dp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            }
+        },
+        "bgaDelay": 0,
+        "bgaFileName": "20te",
+        "afpFlag": 0,
+        "restValidBuffer": {},
+        "oldLeggendaria": true
+    },
+    "21105": {
+        "title": "疾風迅雷†LEGGENDARIA ",
+        "asciiTitle": "LIGHTNING SPEED LEGGENDARIA",
+        "genre": "ORIENTAL CORE",
+        "artist": "KUMOKIRI",
+        "entryTextureFlags": {
+            "title": 1,
+            "artist": 0,
+            "genre": 0,
+            "load": 0,
+            "list": 1
+        },
+        "entryFont": 3,
+        "version": 255,
+        "otherFolder": 1,
+        "bemaniFolder": 0,
+        "splittableDiff": 1,
+        "difficulties": {
+            "sp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 12,
+                "legendaria": 0
+            },
+            "dp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 12,
+                "legendaria": 0
+            }
+        },
+        "entryId": 21105,
+        "volume": 116,
+        "fileIdentifiers": {
+            "sp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            },
+            "dp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            }
+        },
+        "bgaDelay": 0,
+        "bgaFileName": "14te",
+        "afpFlag": 0,
+        "restValidBuffer": {},
+        "oldLeggendaria": true
+    },
+    "21106": {
+        "title": "Verflucht†LEGGENDARIA ",
+        "asciiTitle": "Verflucht LEGGENDARIA",
+        "genre": "HARD NRG",
+        "artist": "Tyrfing",
+        "entryTextureFlags": {
+            "title": 1,
+            "artist": 0,
+            "genre": 0,
+            "load": 0,
+            "list": 1
+        },
+        "entryFont": 0,
+        "version": 255,
+        "otherFolder": 0,
+        "bemaniFolder": 0,
+        "splittableDiff": 1,
+        "difficulties": {
+            "sp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 12,
+                "legendaria": 0
+            },
+            "dp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 12,
+                "legendaria": 0
+            }
+        },
+        "entryId": 21106,
+        "volume": 123,
+        "fileIdentifiers": {
+            "sp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            },
+            "dp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            }
+        },
+        "bgaDelay": 0,
+        "bgaFileName": "10tr",
+        "afpFlag": 0,
+        "restValidBuffer": {},
+        "oldLeggendaria": true
+    },
+    "21107": {
+        "title": "廿†",
+        "asciiTitle": "TWENTY",
+        "genre": "新世紀進歩的羽扇子音楽",
+        "artist": "DJ TECHNORCH",
+        "entryTextureFlags": {
+            "title": 0,
+            "artist": 0,
+            "genre": 0,
+            "load": 0,
+            "list": 0
+        },
+        "entryFont": 3,
+        "version": 255,
+        "otherFolder": 1,
+        "bemaniFolder": 0,
+        "splittableDiff": 1,
+        "difficulties": {
+            "sp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 12,
+                "legendaria": 0
+            },
+            "dp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 12,
+                "legendaria": 0
+            }
+        },
+        "entryId": 21107,
+        "volume": 52,
+        "fileIdentifiers": {
+            "sp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            },
+            "dp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            }
+        },
+        "bgaDelay": 0,
+        "bgaFileName": "17te",
+        "afpFlag": 0,
+        "restValidBuffer": {},
+        "oldLeggendaria": true
+    },
+    "21108": {
+        "title": "KAISER PHOENIX†",
+        "asciiTitle": "KAISER PHOENIX",
+        "genre": "HEAVY METAL",
+        "artist": "96",
+        "entryTextureFlags": {
+            "title": 1,
+            "artist": 0,
+            "genre": 0,
+            "load": 0,
+            "list": 0
+        },
+        "entryFont": 0,
+        "version": 255,
+        "otherFolder": 0,
+        "bemaniFolder": 1,
+        "splittableDiff": 1,
+        "difficulties": {
+            "sp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 12,
+                "legendaria": 0
+            },
+            "dp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 12,
+                "legendaria": 0
+            }
+        },
+        "entryId": 21108,
+        "volume": 78,
+        "fileIdentifiers": {
+            "sp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            },
+            "dp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            }
+        },
+        "bgaDelay": 0,
+        "bgaFileName": "21089",
+        "afpFlag": 0,
+        "restValidBuffer": {},
+        "oldLeggendaria": true
+    },
+    "21204": {
+        "title": "THE EARTH LIGHT†",
+        "asciiTitle": "THE EARTH LIGHT",
+        "genre": "TRANCE",
+        "artist": "L.E.D. LIGHT",
+        "entryTextureFlags": {
+            "title": 1,
+            "artist": 0,
+            "genre": 0,
+            "load": 1,
+            "list": 1
+        },
+        "entryFont": 0,
+        "version": 255,
+        "otherFolder": 0,
+        "bemaniFolder": 0,
+        "splittableDiff": 0,
+        "difficulties": {
+            "sp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 10,
+                "legendaria": 0
+            },
+            "dp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 0,
+                "legendaria": 0
+            }
+        },
+        "entryId": 21204,
+        "volume": 43,
+        "fileIdentifiers": {
+            "sp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            },
+            "dp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            }
+        },
+        "bgaDelay": -120,
+        "bgaFileName": "01005",
+        "afpFlag": 0,
+        "restValidBuffer": {},
+        "oldLeggendaria": true
+    },
+    "21205": {
+        "title": "starmine†",
+        "asciiTitle": "starmine",
+        "genre": "HAPPY HARDCORE",
+        "artist": "Ryu☆",
+        "entryTextureFlags": {
+            "title": 1,
+            "artist": 0,
+            "genre": 0,
+            "load": 1,
+            "list": 1
+        },
+        "entryFont": 0,
+        "version": 255,
+        "otherFolder": 0,
+        "bemaniFolder": 1,
+        "splittableDiff": 1,
+        "difficulties": {
+            "sp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 10,
+                "legendaria": 0
+            },
+            "dp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 0,
+                "legendaria": 0
+            }
+        },
+        "entryId": 21205,
+        "volume": 100,
+        "fileIdentifiers": {
+            "sp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            },
+            "dp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            }
+        },
+        "bgaDelay": -120,
+        "bgaFileName": "04020",
+        "afpFlag": 0,
+        "restValidBuffer": {},
+        "oldLeggendaria": true
+    },
+    "21206": {
+        "title": "outer wall†",
+        "asciiTitle": "outer wall",
+        "genre": "TECHNO",
+        "artist": "sampling masters MEGA",
+        "entryTextureFlags": {
+            "title": 1,
+            "artist": 0,
+            "genre": 0,
+            "load": 1,
+            "list": 1
+        },
+        "entryFont": 0,
+        "version": 255,
+        "otherFolder": 0,
+        "bemaniFolder": 0,
+        "splittableDiff": 1,
+        "difficulties": {
+            "sp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 11,
+                "legendaria": 0
+            },
+            "dp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 0,
+                "legendaria": 0
+            }
+        },
+        "entryId": 21206,
+        "volume": 255,
+        "fileIdentifiers": {
+            "sp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            },
+            "dp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            }
+        },
+        "bgaDelay": -120,
+        "bgaFileName": "05007",
+        "afpFlag": 0,
+        "restValidBuffer": {},
+        "oldLeggendaria": true
+    },
+    "21207": {
+        "title": "G2†",
+        "asciiTitle": "G2",
+        "genre": "DRUM'N'BASS",
+        "artist": "Aya",
+        "entryTextureFlags": {
+            "title": 1,
+            "artist": 0,
+            "genre": 0,
+            "load": 1,
+            "list": 1
+        },
+        "entryFont": 0,
+        "version": 255,
+        "otherFolder": 0,
+        "bemaniFolder": 0,
+        "splittableDiff": 1,
+        "difficulties": {
+            "sp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 12,
+                "legendaria": 0
+            },
+            "dp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 0,
+                "legendaria": 0
+            }
+        },
+        "entryId": 21207,
+        "volume": 80,
+        "fileIdentifiers": {
+            "sp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            },
+            "dp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            }
+        },
+        "bgaDelay": -120,
+        "bgaFileName": "06013",
+        "afpFlag": 0,
+        "restValidBuffer": {},
+        "oldLeggendaria": true
+    },
+    "21208": {
+        "title": "ZERO-ONE†",
+        "asciiTitle": "ZERO-ONE",
+        "genre": "ELECTROSHOCK",
+        "artist": "Mr.T",
+        "entryTextureFlags": {
+            "title": 1,
+            "artist": 0,
+            "genre": 0,
+            "load": 1,
+            "list": 1
+        },
+        "entryFont": 0,
+        "version": 255,
+        "otherFolder": 0,
+        "bemaniFolder": 0,
+        "splittableDiff": 1,
+        "difficulties": {
+            "sp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 11,
+                "legendaria": 0
+            },
+            "dp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 0,
+                "legendaria": 0
+            }
+        },
+        "entryId": 21208,
+        "volume": 85,
+        "fileIdentifiers": {
+            "sp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            },
+            "dp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            }
+        },
+        "bgaDelay": -60,
+        "bgaFileName": "07te",
+        "afpFlag": 2,
+        "restValidBuffer": {
+            "512": 48,
+            "513": 48,
+            "544": 48,
+            "545": 49,
+            "576": 48,
+            "577": 50,
+            "608": 48,
+            "609": 51,
+            "640": 48,
+            "641": 52
+        },
+        "oldLeggendaria": true
+    },
+    "21209": {
+        "title": "LAB†",
+        "asciiTitle": "LAB",
+        "genre": "RAVE",
+        "artist": "RAM",
+        "entryTextureFlags": {
+            "title": 1,
+            "artist": 0,
+            "genre": 0,
+            "load": 1,
+            "list": 1
+        },
+        "entryFont": 0,
+        "version": 255,
+        "otherFolder": 0,
+        "bemaniFolder": 0,
+        "splittableDiff": 1,
+        "difficulties": {
+            "sp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 11,
+                "legendaria": 0
+            },
+            "dp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 0,
+                "legendaria": 0
+            }
+        },
+        "entryId": 21209,
+        "volume": 80,
+        "fileIdentifiers": {
+            "sp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            },
+            "dp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            }
+        },
+        "bgaDelay": 0,
+        "bgaFileName": "08023",
+        "afpFlag": 0,
+        "restValidBuffer": {},
+        "oldLeggendaria": true
+    },
+    "21210": {
+        "title": "LOVE IS ORANGE†",
+        "asciiTitle": "LOVE IS ORANGE",
+        "genre": "HARD CHANSON",
+        "artist": "Orange Lounge",
+        "entryTextureFlags": {
+            "title": 1,
+            "artist": 0,
+            "genre": 0,
+            "load": 1,
+            "list": 1
+        },
+        "entryFont": 0,
+        "version": 255,
+        "otherFolder": 0,
+        "bemaniFolder": 1,
+        "splittableDiff": 1,
+        "difficulties": {
+            "sp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 10,
+                "legendaria": 0
+            },
+            "dp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 0,
+                "legendaria": 0
+            }
+        },
+        "entryId": 21210,
+        "volume": 110,
+        "fileIdentifiers": {
+            "sp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            },
+            "dp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            }
+        },
+        "bgaDelay": 0,
+        "bgaFileName": "08024",
+        "afpFlag": 0,
+        "restValidBuffer": {},
+        "oldLeggendaria": true
+    },
+    "21211": {
+        "title": "Silvia Drive†",
+        "asciiTitle": "Silvia Drive",
+        "genre": "HAPPY HANDBAG",
+        "artist": "dj TAKA feat.Noria",
+        "entryTextureFlags": {
+            "title": 1,
+            "artist": 0,
+            "genre": 0,
+            "load": 1,
+            "list": 1
+        },
+        "entryFont": 0,
+        "version": 255,
+        "otherFolder": 0,
+        "bemaniFolder": 0,
+        "splittableDiff": 1,
+        "difficulties": {
+            "sp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 10,
+                "legendaria": 0
+            },
+            "dp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 0,
+                "legendaria": 0
+            }
+        },
+        "entryId": 21211,
+        "volume": 55,
+        "fileIdentifiers": {
+            "sp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            },
+            "dp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            }
+        },
+        "bgaDelay": 112,
+        "bgaFileName": "09001",
+        "afpFlag": 0,
+        "restValidBuffer": {},
+        "oldLeggendaria": true
+    },
+    "21212": {
+        "title": "Abyss -The Heavens Remix-†",
+        "asciiTitle": "Abyss -The Heavens Remix-",
+        "genre": "TRANCE CORE",
+        "artist": "dj TAKA Remixed by Ryu☆",
+        "entryTextureFlags": {
+            "title": 1,
+            "artist": 0,
+            "genre": 0,
+            "load": 1,
+            "list": 1
+        },
+        "entryFont": 0,
+        "version": 255,
+        "otherFolder": 0,
+        "bemaniFolder": 0,
+        "splittableDiff": 1,
+        "difficulties": {
+            "sp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 11,
+                "legendaria": 0
+            },
+            "dp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 11,
+                "legendaria": 0
+            }
+        },
+        "entryId": 21212,
+        "volume": 60,
+        "fileIdentifiers": {
+            "sp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            },
+            "dp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            }
+        },
+        "bgaDelay": 84,
+        "bgaFileName": "09051",
+        "afpFlag": 0,
+        "restValidBuffer": {},
+        "oldLeggendaria": true
+    },
+    "21215": {
+        "title": "The Hope of Tomorrow†",
+        "asciiTitle": "The Hope of Tomorrow",
+        "genre": "CYBORG TRANCE",
+        "artist": "Sota Fujimori",
+        "entryTextureFlags": {
+            "title": 1,
+            "artist": 0,
+            "genre": 0,
+            "load": 1,
+            "list": 1
+        },
+        "entryFont": 0,
+        "version": 255,
+        "otherFolder": 0,
+        "bemaniFolder": 0,
+        "splittableDiff": 1,
+        "difficulties": {
+            "sp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 10,
+                "legendaria": 0
+            },
+            "dp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 0,
+                "legendaria": 0
+            }
+        },
+        "entryId": 21215,
+        "volume": 82,
+        "fileIdentifiers": {
+            "sp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            },
+            "dp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            }
+        },
+        "bgaDelay": 76,
+        "bgaFileName": "11028",
+        "afpFlag": 0,
+        "restValidBuffer": {},
+        "oldLeggendaria": true
+    },
+    "21216": {
+        "title": "EDEN†",
+        "asciiTitle": "EDEN",
+        "genre": "HYPER J-POP SIX",
+        "artist": "ＴЁЯＲＡ",
+        "entryTextureFlags": {
+            "title": 1,
+            "artist": 0,
+            "genre": 0,
+            "load": 1,
+            "list": 1
+        },
+        "entryFont": 0,
+        "version": 255,
+        "otherFolder": 0,
+        "bemaniFolder": 0,
+        "splittableDiff": 1,
+        "difficulties": {
+            "sp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 11,
+                "legendaria": 11
+            },
+            "dp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 0,
+                "legendaria": 11
+            }
+        },
+        "entryId": 21216,
+        "volume": 67,
+        "fileIdentifiers": {
+            "sp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            },
+            "dp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            }
+        },
+        "bgaDelay": 0,
+        "bgaFileName": "12010",
+        "afpFlag": 0,
+        "restValidBuffer": {},
+        "oldLeggendaria": true
+    },
+    "21217": {
+        "title": "Scripted Connection⇒ N mix†",
+        "asciiTitle": "SCRIPTED CONNECTION-> N MIX",
+        "genre": "TECHNO",
+        "artist": "DJ MURASAME",
+        "entryTextureFlags": {
+            "title": 1,
+            "artist": 0,
+            "genre": 0,
+            "load": 1,
+            "list": 1
+        },
+        "entryFont": 1,
+        "version": 255,
+        "otherFolder": 0,
+        "bemaniFolder": 0,
+        "splittableDiff": 1,
+        "difficulties": {
+            "sp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 11,
+                "legendaria": 0
+            },
+            "dp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 0,
+                "legendaria": 0
+            }
+        },
+        "entryId": 21217,
+        "volume": 85,
+        "fileIdentifiers": {
+            "sp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            },
+            "dp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            }
+        },
+        "bgaDelay": -60,
+        "bgaFileName": "08cl",
+        "afpFlag": 2,
+        "restValidBuffer": {
+            "512": 48,
+            "513": 48,
+            "544": 48,
+            "545": 49,
+            "576": 48,
+            "577": 50,
+            "608": 48,
+            "609": 51,
+            "640": 48,
+            "641": 52
+        },
+        "oldLeggendaria": true
+    },
+    "21218": {
+        "title": "Scripted Connection⇒ H mix†",
+        "asciiTitle": "SCRIPTED CONNECTION-> H MIX",
+        "genre": "TECHNO",
+        "artist": "DJ MURASAME",
+        "entryTextureFlags": {
+            "title": 1,
+            "artist": 0,
+            "genre": 0,
+            "load": 1,
+            "list": 1
+        },
+        "entryFont": 1,
+        "version": 255,
+        "otherFolder": 0,
+        "bemaniFolder": 0,
+        "splittableDiff": 1,
+        "difficulties": {
+            "sp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 11,
+                "legendaria": 0
+            },
+            "dp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 0,
+                "legendaria": 0
+            }
+        },
+        "entryId": 21218,
+        "volume": 85,
+        "fileIdentifiers": {
+            "sp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            },
+            "dp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            }
+        },
+        "bgaDelay": -60,
+        "bgaFileName": "08cl",
+        "afpFlag": 2,
+        "restValidBuffer": {
+            "512": 48,
+            "513": 48,
+            "544": 48,
+            "545": 49,
+            "576": 48,
+            "577": 50,
+            "608": 48,
+            "609": 51,
+            "640": 48,
+            "641": 52
+        },
+        "oldLeggendaria": true
+    },
+    "21219": {
+        "title": "Scripted Connection⇒ A mix†",
+        "asciiTitle": "SCRIPTED CONNECTION-> A MIX",
+        "genre": "TECHNO",
+        "artist": "DJ MURASAME",
+        "entryTextureFlags": {
+            "title": 1,
+            "artist": 0,
+            "genre": 0,
+            "load": 1,
+            "list": 1
+        },
+        "entryFont": 1,
+        "version": 255,
+        "otherFolder": 0,
+        "bemaniFolder": 0,
+        "splittableDiff": 1,
+        "difficulties": {
+            "sp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 12,
+                "legendaria": 0
+            },
+            "dp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 0,
+                "legendaria": 0
+            }
+        },
+        "entryId": 21219,
+        "volume": 85,
+        "fileIdentifiers": {
+            "sp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            },
+            "dp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            }
+        },
+        "bgaDelay": -60,
+        "bgaFileName": "08cl",
+        "afpFlag": 2,
+        "restValidBuffer": {
+            "512": 48,
+            "513": 48,
+            "544": 48,
+            "545": 49,
+            "576": 48,
+            "577": 50,
+            "608": 48,
+            "609": 51,
+            "640": 48,
+            "641": 52
+        },
+        "oldLeggendaria": true
+    },
+    "21222": {
+        "title": "snow storm†",
+        "asciiTitle": "snow storm",
+        "genre": "TRANCE",
+        "artist": "dj TAKA",
+        "entryTextureFlags": {
+            "title": 1,
+            "artist": 0,
+            "genre": 0,
+            "load": 1,
+            "list": 1
+        },
+        "entryFont": 0,
+        "version": 255,
+        "otherFolder": 0,
+        "bemaniFolder": 0,
+        "splittableDiff": 1,
+        "difficulties": {
+            "sp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 12,
+                "legendaria": 0
+            },
+            "dp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 0,
+                "legendaria": 0
+            }
+        },
+        "entryId": 21222,
+        "volume": 72,
+        "fileIdentifiers": {
+            "sp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            },
+            "dp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            }
+        },
+        "bgaDelay": 0,
+        "bgaFileName": "14053",
+        "afpFlag": 0,
+        "restValidBuffer": {},
+        "oldLeggendaria": true
+    },
+    "21223": {
+        "title": "Anisakis -somatic mutation type\"Forza\"-†",
+        "asciiTitle": "Anisakis -somatic mutation type\"Forza\"-",
+        "genre": "HARD RENAISSANCE",
+        "artist": "朱雀",
+        "entryTextureFlags": {
+            "title": 1,
+            "artist": 0,
+            "genre": 0,
+            "load": 1,
+            "list": 1
+        },
+        "entryFont": 0,
+        "version": 255,
+        "otherFolder": 0,
+        "bemaniFolder": 1,
+        "splittableDiff": 1,
+        "difficulties": {
+            "sp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 12,
+                "legendaria": 0
+            },
+            "dp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 12,
+                "legendaria": 0
+            }
+        },
+        "entryId": 21223,
+        "volume": 117,
+        "fileIdentifiers": {
+            "sp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            },
+            "dp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            }
+        },
+        "bgaDelay": 0,
+        "bgaFileName": "07tr_220",
+        "afpFlag": 2,
+        "restValidBuffer": {
+            "512": 48,
+            "513": 48,
+            "544": 48,
+            "545": 49,
+            "576": 48,
+            "577": 50
+        },
+        "oldLeggendaria": true
+    },
+    "21224": {
+        "title": "MENDES†",
+        "asciiTitle": "MENDES",
+        "genre": "IRREGULAR HI-BREAK",
+        "artist": "Humanoid",
+        "entryTextureFlags": {
+            "title": 1,
+            "artist": 0,
+            "genre": 0,
+            "load": 1,
+            "list": 1
+        },
+        "entryFont": 0,
+        "version": 255,
+        "otherFolder": 0,
+        "bemaniFolder": 0,
+        "splittableDiff": 0,
+        "difficulties": {
+            "sp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 12,
+                "legendaria": 0
+            },
+            "dp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 12,
+                "legendaria": 0
+            }
+        },
+        "entryId": 21224,
+        "volume": 111,
+        "fileIdentifiers": {
+            "sp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            },
+            "dp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            }
+        },
+        "bgaDelay": 0,
+        "bgaFileName": "military",
+        "afpFlag": 0,
+        "restValidBuffer": {},
+        "oldLeggendaria": true
+    },
+    "21228": {
+        "title": "NEW GENERATION -もう、お前しか見えない-†",
+        "asciiTitle": "NEW GENERATION",
+        "genre": "ONLY ONE EURO BEAT",
+        "artist": "SUPER STAR 満-MITSURU-",
+        "entryTextureFlags": {
+            "title": 1,
+            "artist": 0,
+            "genre": 0,
+            "load": 1,
+            "list": 1
+        },
+        "entryFont": 1,
+        "version": 255,
+        "otherFolder": 0,
+        "bemaniFolder": 0,
+        "splittableDiff": 1,
+        "difficulties": {
+            "sp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 12,
+                "legendaria": 0
+            },
+            "dp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 0,
+                "legendaria": 0
+            }
+        },
+        "entryId": 21228,
+        "volume": 65,
+        "fileIdentifiers": {
+            "sp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            },
+            "dp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            }
+        },
+        "bgaDelay": -60,
+        "bgaFileName": "08pa",
+        "afpFlag": 0,
+        "restValidBuffer": {},
+        "oldLeggendaria": true
+    },
+    "21229": {
+        "title": "TROOPERS†",
+        "asciiTitle": "TROOPERS",
+        "genre": "ULTIMATE CORE",
+        "artist": "Des-TRACT",
+        "entryTextureFlags": {
+            "title": 1,
+            "artist": 0,
+            "genre": 0,
+            "load": 1,
+            "list": 1
+        },
+        "entryFont": 0,
+        "version": 255,
+        "otherFolder": 0,
+        "bemaniFolder": 0,
+        "splittableDiff": 1,
+        "difficulties": {
+            "sp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 12,
+                "legendaria": 0
+            },
+            "dp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 0,
+                "legendaria": 0
+            }
+        },
+        "entryId": 21229,
+        "volume": 85,
+        "fileIdentifiers": {
+            "sp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            },
+            "dp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            }
+        },
+        "bgaDelay": 0,
+        "bgaFileName": "15016",
+        "afpFlag": 2,
+        "restValidBuffer": {
+            "512": 48,
+            "513": 48,
+            "544": 48,
+            "545": 49,
+            "576": 48,
+            "577": 50,
+            "608": 48,
+            "609": 51
+        },
+        "oldLeggendaria": true
+    },
+    "21232": {
+        "title": "Do it!! Do it!!†",
+        "asciiTitle": "Do it!! Do it!!",
+        "genre": "N-BEATS",
+        "artist": "Kraken",
+        "entryTextureFlags": {
+            "title": 1,
+            "artist": 0,
+            "genre": 0,
+            "load": 1,
+            "list": 1
+        },
+        "entryFont": 0,
+        "version": 255,
+        "otherFolder": 0,
+        "bemaniFolder": 0,
+        "splittableDiff": 1,
+        "difficulties": {
+            "sp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 12,
+                "legendaria": 0
+            },
+            "dp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 12,
+                "legendaria": 0
+            }
+        },
+        "entryId": 21232,
+        "volume": 47,
+        "fileIdentifiers": {
+            "sp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            },
+            "dp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            }
+        },
+        "bgaDelay": 0,
+        "bgaFileName": "military",
+        "afpFlag": 0,
+        "restValidBuffer": {},
+        "oldLeggendaria": true
+    },
+    "21233": {
+        "title": "Time to Air†",
+        "asciiTitle": "Time to Air",
+        "genre": "DANCE SPEED",
+        "artist": "青龍",
+        "entryTextureFlags": {
+            "title": 1,
+            "artist": 0,
+            "genre": 0,
+            "load": 1,
+            "list": 1
+        },
+        "entryFont": 0,
+        "version": 255,
+        "otherFolder": 0,
+        "bemaniFolder": 0,
+        "splittableDiff": 1,
+        "difficulties": {
+            "sp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 12,
+                "legendaria": 0
+            },
+            "dp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 0,
+                "legendaria": 0
+            }
+        },
+        "entryId": 21233,
+        "volume": 44,
+        "fileIdentifiers": {
+            "sp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            },
+            "dp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            }
+        },
+        "bgaDelay": 0,
+        "bgaFileName": "14tr",
+        "afpFlag": 0,
+        "restValidBuffer": {},
+        "oldLeggendaria": true
+    },
+    "21234": {
+        "title": "MENTAL MELTDOWN†",
+        "asciiTitle": "MENTAL MELTDOWN",
+        "genre": "HARD HOP",
+        "artist": "GUHROOVY fw.TECHNORCH",
+        "entryTextureFlags": {
+            "title": 1,
+            "artist": 0,
+            "genre": 0,
+            "load": 1,
+            "list": 1
+        },
+        "entryFont": 0,
+        "version": 255,
+        "otherFolder": 0,
+        "bemaniFolder": 0,
+        "splittableDiff": 1,
+        "difficulties": {
+            "sp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 12,
+                "legendaria": 0
+            },
+            "dp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 0,
+                "legendaria": 0
+            }
+        },
+        "entryId": 21234,
+        "volume": 58,
+        "fileIdentifiers": {
+            "sp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            },
+            "dp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            }
+        },
+        "bgaDelay": 88,
+        "bgaFileName": "15032",
+        "afpFlag": 0,
+        "restValidBuffer": {},
+        "oldLeggendaria": true
+    },
+    "21235": {
+        "title": "Be OK†",
+        "asciiTitle": "Be OK",
+        "genre": "EUROBEAT",
+        "artist": "good-cool ft. Florence",
+        "entryTextureFlags": {
+            "title": 1,
+            "artist": 0,
+            "genre": 0,
+            "load": 1,
+            "list": 1
+        },
+        "entryFont": 0,
+        "version": 255,
+        "otherFolder": 0,
+        "bemaniFolder": 0,
+        "splittableDiff": 1,
+        "difficulties": {
+            "sp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 11,
+                "legendaria": 0
+            },
+            "dp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 0,
+                "legendaria": 0
+            }
+        },
+        "entryId": 21235,
+        "volume": 100,
+        "fileIdentifiers": {
+            "sp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            },
+            "dp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            }
+        },
+        "bgaDelay": -60,
+        "bgaFileName": "06hy",
+        "afpFlag": 0,
+        "restValidBuffer": {},
+        "oldLeggendaria": true
+    },
+    "21236": {
+        "title": "華爛漫 -Flowers-†",
+        "asciiTitle": "HANARANMAN",
+        "genre": "HYPER JAPANESQUE 2",
+        "artist": "ＴЁЯＲＡ",
+        "entryTextureFlags": {
+            "title": 1,
+            "artist": 0,
+            "genre": 0,
+            "load": 1,
+            "list": 1
+        },
+        "entryFont": 1,
+        "version": 255,
+        "otherFolder": 1,
+        "bemaniFolder": 1,
+        "splittableDiff": 1,
+        "difficulties": {
+            "sp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 12,
+                "legendaria": 0
+            },
+            "dp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 0,
+                "legendaria": 0
+            }
+        },
+        "entryId": 21236,
+        "volume": 122,
+        "fileIdentifiers": {
+            "sp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            },
+            "dp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            }
+        },
+        "bgaDelay": 0,
+        "bgaFileName": "10di",
+        "afpFlag": 0,
+        "restValidBuffer": {},
+        "oldLeggendaria": true
+    },
+    "21238": {
+        "title": "CaptivAte2~覚醒~†",
+        "asciiTitle": "CAPTIVATE2",
+        "genre": "NOSTALISH REQUIEM",
+        "artist": "e-lma",
+        "entryTextureFlags": {
+            "title": 1,
+            "artist": 0,
+            "genre": 0,
+            "load": 1,
+            "list": 1
+        },
+        "entryFont": 3,
+        "version": 255,
+        "otherFolder": 0,
+        "bemaniFolder": 0,
+        "splittableDiff": 1,
+        "difficulties": {
+            "sp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 12,
+                "legendaria": 0
+            },
+            "dp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 12,
+                "legendaria": 0
+            }
+        },
+        "entryId": 21238,
+        "volume": 127,
+        "fileIdentifiers": {
+            "sp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            },
+            "dp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            }
+        },
+        "bgaDelay": -60,
+        "bgaFileName": "07tr",
+        "afpFlag": 0,
+        "restValidBuffer": {},
+        "oldLeggendaria": true
+    },
+    "21239": {
+        "title": "翼†",
+        "asciiTitle": "TSUBASA",
+        "genre": "J-TRANCE",
+        "artist": "小林ゆう",
+        "entryTextureFlags": {
+            "title": 1,
+            "artist": 0,
+            "genre": 0,
+            "load": 1,
+            "list": 1
+        },
+        "entryFont": 3,
+        "version": 255,
+        "otherFolder": 1,
+        "bemaniFolder": 0,
+        "splittableDiff": 1,
+        "difficulties": {
+            "sp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 10,
+                "legendaria": 0
+            },
+            "dp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 11,
+                "legendaria": 0
+            }
+        },
+        "entryId": 21239,
+        "volume": 117,
+        "fileIdentifiers": {
+            "sp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            },
+            "dp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            }
+        },
+        "bgaDelay": 0,
+        "bgaFileName": "16001",
+        "afpFlag": 0,
+        "restValidBuffer": {},
+        "oldLeggendaria": true
+    },
+    "21241": {
+        "title": "Arabian Rave Night†",
+        "asciiTitle": "Arabian Rave Night",
+        "genre": "ARABIC HARDCORE",
+        "artist": "dj MAX STEROID",
+        "entryTextureFlags": {
+            "title": 1,
+            "artist": 0,
+            "genre": 0,
+            "load": 1,
+            "list": 1
+        },
+        "entryFont": 0,
+        "version": 255,
+        "otherFolder": 0,
+        "bemaniFolder": 0,
+        "splittableDiff": 1,
+        "difficulties": {
+            "sp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 12,
+                "legendaria": 0
+            },
+            "dp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 12,
+                "legendaria": 0
+            }
+        },
+        "entryId": 21241,
+        "volume": 65,
+        "fileIdentifiers": {
+            "sp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            },
+            "dp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            }
+        },
+        "bgaDelay": 0,
+        "bgaFileName": "16011",
+        "afpFlag": 0,
+        "restValidBuffer": {},
+        "oldLeggendaria": true
+    },
+    "21244": {
+        "title": "ALL MY TURN -このターンに、オレの全てを賭ける-†",
+        "asciiTitle": "ALL MY TURN",
+        "genre": "ONLY ONE EURO BEAT",
+        "artist": "SUPER STAR 満-MITSURU-",
+        "entryTextureFlags": {
+            "title": 1,
+            "artist": 0,
+            "genre": 0,
+            "load": 1,
+            "list": 1
+        },
+        "entryFont": 1,
+        "version": 255,
+        "otherFolder": 0,
+        "bemaniFolder": 0,
+        "splittableDiff": 1,
+        "difficulties": {
+            "sp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 12,
+                "legendaria": 0
+            },
+            "dp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 12,
+                "legendaria": 0
+            }
+        },
+        "entryId": 21244,
+        "volume": 65,
+        "fileIdentifiers": {
+            "sp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            },
+            "dp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            }
+        },
+        "bgaDelay": -60,
+        "bgaFileName": "06hy",
+        "afpFlag": 0,
+        "restValidBuffer": {},
+        "oldLeggendaria": true
+    },
+    "21245": {
+        "title": "Marie Antoinette†",
+        "asciiTitle": "Marie Antoinette",
+        "genre": "宮廷円舞曲",
+        "artist": "Marguerite du Pre",
+        "entryTextureFlags": {
+            "title": 1,
+            "artist": 1,
+            "genre": 0,
+            "load": 1,
+            "list": 1
+        },
+        "entryFont": 0,
+        "version": 255,
+        "otherFolder": 0,
+        "bemaniFolder": 0,
+        "splittableDiff": 1,
+        "difficulties": {
+            "sp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 12,
+                "legendaria": 0
+            },
+            "dp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 11,
+                "legendaria": 0
+            }
+        },
+        "entryId": 21245,
+        "volume": 127,
+        "fileIdentifiers": {
+            "sp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            },
+            "dp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            }
+        },
+        "bgaDelay": 100,
+        "bgaFileName": "16018",
+        "afpFlag": 0,
+        "restValidBuffer": {},
+        "oldLeggendaria": true
+    },
+    "21246": {
+        "title": "卑弥呼†",
+        "asciiTitle": "HIMIKO",
+        "genre": "ESOTERIC SPEEDCORE",
+        "artist": "朱雀 VS 玄武",
+        "entryTextureFlags": {
+            "title": 1,
+            "artist": 0,
+            "genre": 0,
+            "load": 1,
+            "list": 1
+        },
+        "entryFont": 3,
+        "version": 255,
+        "otherFolder": 1,
+        "bemaniFolder": 0,
+        "splittableDiff": 0,
+        "difficulties": {
+            "sp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 12,
+                "legendaria": 0
+            },
+            "dp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 12,
+                "legendaria": 0
+            }
+        },
+        "entryId": 21246,
+        "volume": 94,
+        "fileIdentifiers": {
+            "sp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            },
+            "dp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            }
+        },
+        "bgaDelay": 0,
+        "bgaFileName": "14te",
+        "afpFlag": 2,
+        "restValidBuffer": {
+            "512": 48,
+            "513": 48,
+            "544": 48,
+            "545": 49,
+            "576": 48,
+            "577": 50,
+            "608": 48,
+            "609": 51,
+            "640": 48,
+            "641": 52,
+            "672": 48,
+            "673": 53,
+            "704": 48,
+            "705": 54
+        },
+        "oldLeggendaria": true
+    },
+    "21247": {
+        "title": "smooooch・∀・†",
+        "asciiTitle": "SMOOOOCH",
+        "genre": "CANDY RAVE",
+        "artist": "kors k",
+        "entryTextureFlags": {
+            "title": 1,
+            "artist": 0,
+            "genre": 0,
+            "load": 1,
+            "list": 1
+        },
+        "entryFont": 4,
+        "version": 255,
+        "otherFolder": 0,
+        "bemaniFolder": 1,
+        "splittableDiff": 1,
+        "difficulties": {
+            "sp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 11,
+                "legendaria": 0
+            },
+            "dp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 0,
+                "legendaria": 0
+            }
+        },
+        "entryId": 21247,
+        "volume": 80,
+        "fileIdentifiers": {
+            "sp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            },
+            "dp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            }
+        },
+        "bgaDelay": 0,
+        "bgaFileName": "16021",
+        "afpFlag": 0,
+        "restValidBuffer": {},
+        "oldLeggendaria": true
+    },
+    "21249": {
+        "title": "まほろば†",
+        "asciiTitle": "MAHOROBA",
+        "genre": "J-DANCE POP",
+        "artist": "HHH+H",
+        "entryTextureFlags": {
+            "title": 1,
+            "artist": 0,
+            "genre": 0,
+            "load": 1,
+            "list": 1
+        },
+        "entryFont": 2,
+        "version": 255,
+        "otherFolder": 1,
+        "bemaniFolder": 0,
+        "splittableDiff": 1,
+        "difficulties": {
+            "sp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 11,
+                "legendaria": 0
+            },
+            "dp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 0,
+                "legendaria": 0
+            }
+        },
+        "entryId": 21249,
+        "volume": 70,
+        "fileIdentifiers": {
+            "sp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            },
+            "dp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            }
+        },
+        "bgaDelay": 96,
+        "bgaFileName": "16024",
+        "afpFlag": 0,
+        "restValidBuffer": {},
+        "oldLeggendaria": true
+    },
+    "21250": {
+        "title": "Mind Mapping†",
+        "asciiTitle": "Mind Mapping",
+        "genre": "ELECTRO-TECH",
+        "artist": "Ryu☆",
+        "entryTextureFlags": {
+            "title": 1,
+            "artist": 0,
+            "genre": 0,
+            "load": 1,
+            "list": 1
+        },
+        "entryFont": 0,
+        "version": 255,
+        "otherFolder": 0,
+        "bemaniFolder": 1,
+        "splittableDiff": 1,
+        "difficulties": {
+            "sp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 10,
+                "legendaria": 0
+            },
+            "dp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 11,
+                "legendaria": 0
+            }
+        },
+        "entryId": 21250,
+        "volume": 65,
+        "fileIdentifiers": {
+            "sp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            },
+            "dp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            }
+        },
+        "bgaDelay": 84,
+        "bgaFileName": "16025",
+        "afpFlag": 0,
+        "restValidBuffer": {},
+        "oldLeggendaria": true
+    },
+    "21252": {
+        "title": "NΦ CRIME†",
+        "asciiTitle": "N0 CRIME",
+        "genre": "DANCE MUSIC OF SORROW",
+        "artist": "C×F",
+        "entryTextureFlags": {
+            "title": 1,
+            "artist": 0,
+            "genre": 0,
+            "load": 1,
+            "list": 1
+        },
+        "entryFont": 4,
+        "version": 255,
+        "otherFolder": 0,
+        "bemaniFolder": 0,
+        "splittableDiff": 1,
+        "difficulties": {
+            "sp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 10,
+                "legendaria": 0
+            },
+            "dp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 11,
+                "legendaria": 0
+            }
+        },
+        "entryId": 21252,
+        "volume": 105,
+        "fileIdentifiers": {
+            "sp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            },
+            "dp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            }
+        },
+        "bgaDelay": 0,
+        "bgaFileName": "16030",
+        "afpFlag": 0,
+        "restValidBuffer": {},
+        "oldLeggendaria": true
+    },
+    "21254": {
+        "title": "Punch Love♥仮面†",
+        "asciiTitle": "PUNCH LOVE KAMEN",
+        "genre": "E-DANCE POP",
+        "artist": "上野圭市(aka. Babyweapon,DJ SWAMI)feat.星野奏子",
+        "entryTextureFlags": {
+            "title": 1,
+            "artist": 0,
+            "genre": 0,
+            "load": 1,
+            "list": 1
+        },
+        "entryFont": 1,
+        "version": 255,
+        "otherFolder": 0,
+        "bemaniFolder": 0,
+        "splittableDiff": 1,
+        "difficulties": {
+            "sp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 11,
+                "legendaria": 0
+            },
+            "dp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 12,
+                "legendaria": 0
+            }
+        },
+        "entryId": 21254,
+        "volume": 70,
+        "fileIdentifiers": {
+            "sp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            },
+            "dp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            }
+        },
+        "bgaDelay": 84,
+        "bgaFileName": "16034",
+        "afpFlag": 0,
+        "restValidBuffer": {},
+        "oldLeggendaria": true
+    },
+    "21255": {
+        "title": "Secrets†",
+        "asciiTitle": "Secrets",
+        "genre": "TECH-PARA",
+        "artist": "good-cool ft. CHiCO",
+        "entryTextureFlags": {
+            "title": 1,
+            "artist": 0,
+            "genre": 0,
+            "load": 1,
+            "list": 1
+        },
+        "entryFont": 0,
+        "version": 255,
+        "otherFolder": 0,
+        "bemaniFolder": 0,
+        "splittableDiff": 1,
+        "difficulties": {
+            "sp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 12,
+                "legendaria": 0
+            },
+            "dp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 12,
+                "legendaria": 0
+            }
+        },
+        "entryId": 21255,
+        "volume": 127,
+        "fileIdentifiers": {
+            "sp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            },
+            "dp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            }
+        },
+        "bgaDelay": -96,
+        "bgaFileName": "16038",
+        "afpFlag": 0,
+        "restValidBuffer": {},
+        "oldLeggendaria": true
+    },
+    "21256": {
+        "title": "neogenesis†",
+        "asciiTitle": "neogenesis",
+        "genre": "ENERGETIC TRANCE",
+        "artist": "DM Ashura",
+        "entryTextureFlags": {
+            "title": 1,
+            "artist": 0,
+            "genre": 0,
+            "load": 1,
+            "list": 1
+        },
+        "entryFont": 0,
+        "version": 255,
+        "otherFolder": 0,
+        "bemaniFolder": 0,
+        "splittableDiff": 1,
+        "difficulties": {
+            "sp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 11,
+                "legendaria": 11
+            },
+            "dp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 11,
+                "legendaria": 11
+            }
+        },
+        "entryId": 21256,
+        "volume": 105,
+        "fileIdentifiers": {
+            "sp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            },
+            "dp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            }
+        },
+        "bgaDelay": 0,
+        "bgaFileName": "16040",
+        "afpFlag": 0,
+        "restValidBuffer": {},
+        "oldLeggendaria": true
+    },
+    "21257": {
+        "title": "Bahram Attack-猫叉Master Remix-†",
+        "asciiTitle": "BAHRAM ATTACK",
+        "genre": "HOUSE",
+        "artist": "猫叉Master feat.JUNE",
+        "entryTextureFlags": {
+            "title": 1,
+            "artist": 0,
+            "genre": 0,
+            "load": 1,
+            "list": 1
+        },
+        "entryFont": 2,
+        "version": 255,
+        "otherFolder": 0,
+        "bemaniFolder": 0,
+        "splittableDiff": 1,
+        "difficulties": {
+            "sp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 11,
+                "legendaria": 0
+            },
+            "dp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 11,
+                "legendaria": 0
+            }
+        },
+        "entryId": 21257,
+        "volume": 111,
+        "fileIdentifiers": {
+            "sp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            },
+            "dp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            }
+        },
+        "bgaDelay": -46,
+        "bgaFileName": "16042",
+        "afpFlag": 0,
+        "restValidBuffer": {},
+        "oldLeggendaria": true
+    },
+    "21259": {
+        "title": "thunder HOUSE NATION Remix†",
+        "asciiTitle": "thunder HOUSE NATION Remix",
+        "genre": "HOUSE",
+        "artist": "Remixed by Sunset In Ibiza（SII）",
+        "entryTextureFlags": {
+            "title": 1,
+            "artist": 0,
+            "genre": 0,
+            "load": 1,
+            "list": 1
+        },
+        "entryFont": 0,
+        "version": 255,
+        "otherFolder": 0,
+        "bemaniFolder": 0,
+        "splittableDiff": 1,
+        "difficulties": {
+            "sp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 12,
+                "legendaria": 0
+            },
+            "dp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 0,
+                "legendaria": 0
+            }
+        },
+        "entryId": 21259,
+        "volume": 123,
+        "fileIdentifiers": {
+            "sp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            },
+            "dp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            }
+        },
+        "bgaDelay": 0,
+        "bgaFileName": "16hn",
+        "afpFlag": 0,
+        "restValidBuffer": {},
+        "oldLeggendaria": true
+    },
+    "21260": {
+        "title": "Jack†",
+        "asciiTitle": "Jack",
+        "genre": "MIXTURE",
+        "artist": "DesQ",
+        "entryTextureFlags": {
+            "title": 1,
+            "artist": 0,
+            "genre": 0,
+            "load": 1,
+            "list": 1
+        },
+        "entryFont": 0,
+        "version": 255,
+        "otherFolder": 0,
+        "bemaniFolder": 1,
+        "splittableDiff": 1,
+        "difficulties": {
+            "sp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 11,
+                "legendaria": 0
+            },
+            "dp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 0,
+                "legendaria": 0
+            }
+        },
+        "entryId": 21260,
+        "volume": 60,
+        "fileIdentifiers": {
+            "sp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            },
+            "dp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            }
+        },
+        "bgaDelay": -60,
+        "bgaFileName": "04te",
+        "afpFlag": 0,
+        "restValidBuffer": {},
+        "oldLeggendaria": true
+    },
+    "21261": {
+        "title": "four pieces of heaven†",
+        "asciiTitle": "four pieces of heaven",
+        "genre": "JUNGLE",
+        "artist": "Lion",
+        "entryTextureFlags": {
+            "title": 1,
+            "artist": 0,
+            "genre": 0,
+            "load": 1,
+            "list": 1
+        },
+        "entryFont": 0,
+        "version": 255,
+        "otherFolder": 0,
+        "bemaniFolder": 0,
+        "splittableDiff": 1,
+        "difficulties": {
+            "sp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 12,
+                "legendaria": 12
+            },
+            "dp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 0,
+                "legendaria": 12
+            }
+        },
+        "entryId": 21261,
+        "volume": 300,
+        "fileIdentifiers": {
+            "sp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            },
+            "dp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            }
+        },
+        "bgaDelay": 0,
+        "bgaFileName": "military",
+        "afpFlag": 0,
+        "restValidBuffer": {},
+        "oldLeggendaria": true
+    },
+    "21263": {
+        "title": "STEEL NEEDLE†",
+        "asciiTitle": "STEEL NEEDLE",
+        "genre": "BREAK CORE",
+        "artist": "Scorpion",
+        "entryTextureFlags": {
+            "title": 1,
+            "artist": 0,
+            "genre": 0,
+            "load": 1,
+            "list": 1
+        },
+        "entryFont": 0,
+        "version": 255,
+        "otherFolder": 0,
+        "bemaniFolder": 0,
+        "splittableDiff": 1,
+        "difficulties": {
+            "sp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 12,
+                "legendaria": 0
+            },
+            "dp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 12,
+                "legendaria": 0
+            }
+        },
+        "entryId": 21263,
+        "volume": 300,
+        "fileIdentifiers": {
+            "sp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            },
+            "dp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            }
+        },
+        "bgaDelay": 0,
+        "bgaFileName": "military",
+        "afpFlag": 0,
+        "restValidBuffer": {},
+        "oldLeggendaria": true
+    },
+    "21264": {
+        "title": "零 - ZERO -†",
+        "asciiTitle": "ZERO",
+        "genre": "HYPER J-POP ZERO",
+        "artist": "ＴЁЯＲＡ",
+        "entryTextureFlags": {
+            "title": 1,
+            "artist": 0,
+            "genre": 0,
+            "load": 1,
+            "list": 1
+        },
+        "entryFont": 1,
+        "version": 255,
+        "otherFolder": 1,
+        "bemaniFolder": 0,
+        "splittableDiff": 1,
+        "difficulties": {
+            "sp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 10,
+                "legendaria": 0
+            },
+            "dp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 0,
+                "legendaria": 0
+            }
+        },
+        "entryId": 21264,
+        "volume": 94,
+        "fileIdentifiers": {
+            "sp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            },
+            "dp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            }
+        },
+        "bgaDelay": 64,
+        "bgaFileName": "14012",
+        "afpFlag": 0,
+        "restValidBuffer": {},
+        "oldLeggendaria": true
+    },
+    "22101": {
+        "title": "CHRONO DIVER -NORNIR-†",
+        "asciiTitle": "CHRONO DIVER -NORNIR-",
+        "genre": "CYBER DRUM & BASS",
+        "artist": "L.E.D.",
+        "entryTextureFlags": {
+            "title": 1,
+            "artist": 0,
+            "genre": 0,
+            "load": 1,
+            "list": 0
+        },
+        "entryFont": 0,
+        "version": 255,
+        "otherFolder": 0,
+        "bemaniFolder": 0,
+        "splittableDiff": 1,
+        "difficulties": {
+            "sp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 12,
+                "legendaria": 0
+            },
+            "dp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 12,
+                "legendaria": 0
+            }
+        },
+        "entryId": 22101,
+        "volume": 84,
+        "fileIdentifiers": {
+            "sp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            },
+            "dp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            }
+        },
+        "bgaDelay": 0,
+        "bgaFileName": "22008",
+        "afpFlag": 2,
+        "restValidBuffer": {
+            "512": 48,
+            "513": 48,
+            "544": 48,
+            "545": 49,
+            "576": 48,
+            "577": 50,
+            "608": 48,
+            "609": 51,
+            "640": 48,
+            "641": 52,
+            "800": 50,
+            "801": 50,
+            "802": 48,
+            "803": 48,
+            "804": 56
+        },
+        "oldLeggendaria": true
+    },
+    "22102": {
+        "title": "chrono diver -fragment-†",
+        "asciiTitle": "chrono diver -fragment-",
+        "genre": "HEALING DRUM'N'BASS",
+        "artist": "猫叉Master feat.三澤 秋",
+        "entryTextureFlags": {
+            "title": 1,
+            "artist": 0,
+            "genre": 0,
+            "load": 1,
+            "list": 0
+        },
+        "entryFont": 4,
+        "version": 255,
+        "otherFolder": 0,
+        "bemaniFolder": 0,
+        "splittableDiff": 1,
+        "difficulties": {
+            "sp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 10,
+                "legendaria": 0
+            },
+            "dp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 10,
+                "legendaria": 0
+            }
+        },
+        "entryId": 22102,
+        "volume": 95,
+        "fileIdentifiers": {
+            "sp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            },
+            "dp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            }
+        },
+        "bgaDelay": 0,
+        "bgaFileName": "22013",
+        "afpFlag": 2,
+        "restValidBuffer": {
+            "512": 48,
+            "513": 48,
+            "544": 48,
+            "545": 49,
+            "576": 48,
+            "577": 50,
+            "608": 48,
+            "609": 51,
+            "640": 48,
+            "641": 52,
+            "672": 48,
+            "673": 53,
+            "800": 50,
+            "801": 50,
+            "802": 48,
+            "803": 49,
+            "804": 51
+        },
+        "oldLeggendaria": true
+    },
+    "22103": {
+        "title": "恋は白帯、サンシロー†",
+        "asciiTitle": "KoiHaShiroobi Sanshiro",
+        "genre": "KANA-POP",
+        "artist": "星野奏子",
+        "entryTextureFlags": {
+            "title": 0,
+            "artist": 0,
+            "genre": 0,
+            "load": 0,
+            "list": 0
+        },
+        "entryFont": 3,
+        "version": 255,
+        "otherFolder": 1,
+        "bemaniFolder": 0,
+        "splittableDiff": 1,
+        "difficulties": {
+            "sp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 11,
+                "legendaria": 0
+            },
+            "dp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 11,
+                "legendaria": 0
+            }
+        },
+        "entryId": 22103,
+        "volume": 114,
+        "fileIdentifiers": {
+            "sp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            },
+            "dp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            }
+        },
+        "bgaDelay": 0,
+        "bgaFileName": "22024",
+        "afpFlag": 0,
+        "restValidBuffer": {},
+        "oldLeggendaria": true
+    },
+    "22104": {
+        "title": "Beat Radiance†",
+        "asciiTitle": "Beat Radiance",
+        "genre": "NEO CLASSICAL DANCE",
+        "artist": "iNO",
+        "entryTextureFlags": {
+            "title": 1,
+            "artist": 0,
+            "genre": 0,
+            "load": 0,
+            "list": 0
+        },
+        "entryFont": 0,
+        "version": 255,
+        "otherFolder": 0,
+        "bemaniFolder": 0,
+        "splittableDiff": 1,
+        "difficulties": {
+            "sp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 12,
+                "legendaria": 0
+            },
+            "dp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 12,
+                "legendaria": 0
+            }
+        },
+        "entryId": 22104,
+        "volume": 125,
+        "fileIdentifiers": {
+            "sp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            },
+            "dp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            }
+        },
+        "bgaDelay": 0,
+        "bgaFileName": "20dr",
+        "afpFlag": 2,
+        "restValidBuffer": {
+            "512": 48,
+            "513": 48,
+            "544": 48,
+            "545": 49,
+            "576": 48,
+            "577": 50,
+            "608": 48,
+            "609": 51,
+            "640": 48,
+            "641": 52,
+            "800": 50,
+            "801": 50,
+            "802": 48,
+            "803": 50,
+            "804": 55
+        },
+        "oldLeggendaria": true
+    },
+    "22105": {
+        "title": "超青少年ノ為ノ超多幸ナ超古典的超舞曲†",
+        "asciiTitle": "VERY Classical Dance with VERY Euphoria for VERRRRRY Juvenile",
+        "genre": "PIECED EUPHORIA",
+        "artist": "Project B-",
+        "entryTextureFlags": {
+            "title": 1,
+            "artist": 0,
+            "genre": 0,
+            "load": 0,
+            "list": 0
+        },
+        "entryFont": 1,
+        "version": 255,
+        "otherFolder": 1,
+        "bemaniFolder": 0,
+        "splittableDiff": 1,
+        "difficulties": {
+            "sp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 12,
+                "legendaria": 0
+            },
+            "dp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 12,
+                "legendaria": 0
+            }
+        },
+        "entryId": 22105,
+        "volume": 127,
+        "fileIdentifiers": {
+            "sp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            },
+            "dp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            }
+        },
+        "bgaDelay": 0,
+        "bgaFileName": "22031",
+        "afpFlag": 0,
+        "restValidBuffer": {},
+        "oldLeggendaria": true
+    },
+    "22106": {
+        "title": "EBONY & IVORY†",
+        "asciiTitle": "EBONY & IVORY",
+        "genre": "RAGTIME CHIPTUNE",
+        "artist": "OSTER project",
+        "entryTextureFlags": {
+            "title": 1,
+            "artist": 0,
+            "genre": 0,
+            "load": 0,
+            "list": 0
+        },
+        "entryFont": 0,
+        "version": 255,
+        "otherFolder": 0,
+        "bemaniFolder": 1,
+        "splittableDiff": 1,
+        "difficulties": {
+            "sp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 12,
+                "legendaria": 0
+            },
+            "dp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 12,
+                "legendaria": 0
+            }
+        },
+        "entryId": 22106,
+        "volume": 115,
+        "fileIdentifiers": {
+            "sp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            },
+            "dp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            }
+        },
+        "bgaDelay": 0,
+        "bgaFileName": "22089",
+        "afpFlag": 0,
+        "restValidBuffer": {},
+        "oldLeggendaria": true
+    },
+    "22107": {
+        "title": "Cosmic Cat†",
+        "asciiTitle": "Cosmic Cat",
+        "genre": "FUTURE BASS",
+        "artist": "8bit Moonside",
+        "entryTextureFlags": {
+            "title": 1,
+            "artist": 0,
+            "genre": 0,
+            "load": 0,
+            "list": 0
+        },
+        "entryFont": 0,
+        "version": 255,
+        "otherFolder": 0,
+        "bemaniFolder": 0,
+        "splittableDiff": 1,
+        "difficulties": {
+            "sp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 12,
+                "legendaria": 0
+            },
+            "dp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 12,
+                "legendaria": 0
+            }
+        },
+        "entryId": 22107,
+        "volume": 102,
+        "fileIdentifiers": {
+            "sp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            },
+            "dp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            }
+        },
+        "bgaDelay": 0,
+        "bgaFileName": "22006",
+        "afpFlag": 0,
+        "restValidBuffer": {},
+        "oldLeggendaria": true
+    },
+    "23100": {
+        "title": "Damage Per Second†",
+        "asciiTitle": "Damage Per Second",
+        "genre": "CYBER DRUMSTEP",
+        "artist": "Maozon",
+        "entryTextureFlags": {
+            "title": 1,
+            "artist": 0,
+            "genre": 0,
+            "load": 0,
+            "list": 0
+        },
+        "entryFont": 0,
+        "version": 255,
+        "otherFolder": 0,
+        "bemaniFolder": 0,
+        "splittableDiff": 1,
+        "difficulties": {
+            "sp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 10,
+                "legendaria": 0
+            },
+            "dp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 11,
+                "legendaria": 0
+            }
+        },
+        "entryId": 23100,
+        "volume": 65,
+        "fileIdentifiers": {
+            "sp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            },
+            "dp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            }
+        },
+        "bgaDelay": 50,
+        "bgaFileName": "23054",
+        "afpFlag": 0,
+        "restValidBuffer": {},
+        "oldLeggendaria": true
+    },
+    "23101": {
+        "title": "STARLIGHT DANCEHALL†",
+        "asciiTitle": "STARLIGHT DANCEHALL",
+        "genre": "HAPPY EMOTION",
+        "artist": "P*Light",
+        "entryTextureFlags": {
+            "title": 1,
+            "artist": 0,
+            "genre": 0,
+            "load": 0,
+            "list": 0
+        },
+        "entryFont": 0,
+        "version": 255,
+        "otherFolder": 0,
+        "bemaniFolder": 0,
+        "splittableDiff": 1,
+        "difficulties": {
+            "sp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 12,
+                "legendaria": 0
+            },
+            "dp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 12,
+                "legendaria": 0
+            }
+        },
+        "entryId": 23101,
+        "volume": 127,
+        "fileIdentifiers": {
+            "sp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            },
+            "dp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            }
+        },
+        "bgaDelay": 0,
+        "bgaFileName": "23031",
+        "afpFlag": 0,
+        "restValidBuffer": {},
+        "oldLeggendaria": true
+    },
+    "23102": {
+        "title": "Welcome†",
+        "asciiTitle": "Welcome",
+        "genre": "HARDCORE",
+        "artist": "Uraken",
+        "entryTextureFlags": {
+            "title": 1,
+            "artist": 0,
+            "genre": 0,
+            "load": 0,
+            "list": 0
+        },
+        "entryFont": 0,
+        "version": 255,
+        "otherFolder": 0,
+        "bemaniFolder": 0,
+        "splittableDiff": 1,
+        "difficulties": {
+            "sp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 12,
+                "legendaria": 0
+            },
+            "dp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 12,
+                "legendaria": 0
+            }
+        },
+        "entryId": 23102,
+        "volume": 85,
+        "fileIdentifiers": {
+            "sp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            },
+            "dp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            }
+        },
+        "bgaDelay": 0,
+        "bgaFileName": "23070",
+        "afpFlag": 0,
+        "restValidBuffer": {},
+        "oldLeggendaria": true
+    },
+    "24100": {
+        "title": "Amazing Mirage†",
+        "asciiTitle": "Amazing Mirage",
+        "genre": "HiTECH FULLON",
+        "artist": "lapix",
+        "entryTextureFlags": {
+            "title": 1,
+            "artist": 0,
+            "genre": 0,
+            "load": 0,
+            "list": 0
+        },
+        "entryFont": 0,
+        "version": 255,
+        "otherFolder": 0,
+        "bemaniFolder": 0,
+        "splittableDiff": 1,
+        "difficulties": {
+            "sp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 12,
+                "legendaria": 0
+            },
+            "dp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 12,
+                "legendaria": 0
+            }
+        },
+        "entryId": 24100,
+        "volume": 114,
+        "fileIdentifiers": {
+            "sp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            },
+            "dp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            }
+        },
+        "bgaDelay": 100,
+        "bgaFileName": "24041",
+        "afpFlag": 0,
+        "restValidBuffer": {},
+        "oldLeggendaria": true
+    },
+    "24101": {
+        "title": "冬椿 ft. Kanae Asaba†",
+        "asciiTitle": "Fuyutsubaki ft. Kanae Asaba",
+        "genre": "HYPER ENKA POP",
+        "artist": "Xceon",
+        "entryTextureFlags": {
+            "title": 1,
+            "artist": 0,
+            "genre": 0,
+            "load": 0,
+            "list": 0
+        },
+        "entryFont": 1,
+        "version": 255,
+        "otherFolder": 1,
+        "bemaniFolder": 0,
+        "splittableDiff": 1,
+        "difficulties": {
+            "sp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 11,
+                "legendaria": 0
+            },
+            "dp": {
+                "beginner": 0,
+                "normal": 0,
+                "hyper": 0,
+                "another": 11,
+                "legendaria": 0
+            }
+        },
+        "entryId": 24101,
+        "volume": 115,
+        "fileIdentifiers": {
+            "sp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            },
+            "dp": {
+                "beginner": "0",
+                "normal": "0",
+                "hyper": "0",
+                "another": "0",
+                "legendaria": "0"
+            }
+        },
+        "bgaDelay": 0,
+        "bgaFileName": "24011",
+        "afpFlag": 0,
+        "restValidBuffer": {},
+        "oldLeggendaria": true
+    }
+}

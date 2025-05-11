@@ -11,18 +11,47 @@ fn get_sess_and_user() -> (String, String) {
 #[test]
 fn test_builder() {
     let (sess_id, user_id) = get_sess_and_user();
-    let _: XepherClient = XepherClient::builder().cookie(sess_id, user_id).build();
+    let _: XepherClient = XepherClient::builder()
+        .cookie(sess_id, user_id)
+        .songs_db_paths(vec![
+            "./assets/iidx-old-leggendaria-songs.json",
+            "./assets/iidx-songs.json",
+        ])
+        .build();
 }
 
 #[tokio::test]
 async fn test_get_score() {
     let (sess_id, user_id) = get_sess_and_user();
-    let xepher: XepherClient = XepherClient::builder().cookie(sess_id, &user_id).build();
+    let xepher: XepherClient = XepherClient::builder()
+        .cookie(sess_id, &user_id)
+        .songs_db_paths(vec![
+            "./assets/iidx-old-leggendaria-songs.json",
+            "./assets/iidx-songs.json",
+        ])
+        .build();
 
     let scores = xepher
-        .get_all_scores(user_id.parse().unwrap())
+        .get_all_iidx_scores(user_id.parse().unwrap())
         .await
         .unwrap();
 
     assert!(!scores.is_empty());
+}
+
+#[tokio::test]
+async fn test_get_song_db() {
+    let (sess_id, user_id) = get_sess_and_user();
+    let mut xepher: XepherClient = XepherClient::builder()
+        .cookie(sess_id, &user_id)
+        .songs_db_paths(vec![
+            "./assets/iidx-old-leggendaria-songs.json",
+            "./assets/iidx-songs.json",
+        ])
+        .build();
+
+    let songs = xepher.get_iidx_songs_db().await;
+
+    assert!(!songs.is_empty());
+    println!("{:#?}", songs[&20053]);
 }
